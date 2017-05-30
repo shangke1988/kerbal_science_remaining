@@ -42,7 +42,8 @@ MULTIPLIER_FIELDS = {
     'Flying Low' => 'Low Flying multiplier',
     'Flying High' => 'High Flying multiplier',
     'In Space Low' => 'Low space multiplier',
-    'In Space High' => 'Low space multiplier'
+    'In Space High' => 'High space multiplier',
+    'Recovery' =>'Recovery multiplier'
 }
 
 def body_multiplier(body, situation)
@@ -86,6 +87,7 @@ modules = read_tsv 'modules.tsv', :rotate => true
 bodies = read_tsv 'bodies.tsv'
 biomes_f = read_tsv 'biomes.tsv'
 situations = read_tsv 'situations.tsv'
+recoverys = read_tsv 'recoverys.tsv', :rotate => true
 
 biomes={}
 for body, body_data in bodies
@@ -94,16 +96,29 @@ end
 biomes.update(biomes_f)
 
 for biome_full, biome_data  in biomes
-    body = bodies[biome_data["Body"]]
-	biome = biome_data["Biome"]
+    body = biome_data["Body"]
+    biome = biome_data["Biome"]
+    body_data = bodies[body]
     for module_name, module_data in modules
         for situation, situation_data in situations
             next if biome == "Water" and situation == "Surface: Landed"
-            next if biome != "Water" and situation == "Surface: Splashed"
-            next unless valid_expiriment?(module_name, module_data, biome, biome_data, body, situation, situation_data)
-            science = science_value(module_name, module_data, situation, body)
-            science_max = max_science_value(module_name, module_data, situation, body)
-            puts [biome_data["Body"], biome, module_name, module_data['Tech level'], situation, science, science_max].join(",")
+            next if biome != "Water" and biome != "Shores" and situation == "Surface: Splashed"
+            next unless valid_expiriment?(module_name, module_data, biome, biome_data, body_data, situation, situation_data)
+            science = science_value(module_name, module_data, situation, body_data)
+            science_max = max_science_value(module_name, module_data, situation, body_data)
+            puts [body, biome, module_name, module_data['Tech level'], situation, science, science_max].join(",")
+        end
+    end
+    if biome==body
+        body2 = body=="Kerbin" ? "Kerbin" : "Other"
+        for recovery, recovery_data in recoverys
+            science = recovery_data[body2 + ' Base Value']
+            next if science=='N/A'
+            science_max = recovery_data[body2 + ' Max Value']
+            recovery_multiplier = body_multiplier(body_data, 'Recovery')
+            science = recovery_multiplier * science.to_f
+            science_max = recovery_multiplier * science_max.to_f
+            puts [body, biome, "recovery", "1", recovery, science, science_max].join(",")
         end
     end
 end
