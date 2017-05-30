@@ -9,8 +9,8 @@ This file is horrible, horrible mess.
 RESEARCH_DEPARTMENT = {
     'possible_science': [],
     'slots': [],
-    'LOCATION_ORDERS': ['Surface: Landed', 'Surface: Splashed', 'Flying Low', 'Flying High', 'In Space Low', 'In Space High'],
-    'INSTRUMENT_ORDERS':['Surface Sample', 'EVA Report', 'Crew Report', 'Mystery Goo Observation', 'Materials Study', 'Temperature Scan', 'Atmospheric Pressure Scan', 'Seismic Scan', 'Atmosphere Analysis','Infrared Telescope', 'Gravity Scan'],
+    'LOCATION_ORDERS': ['Surface: Landed', 'Surface: Splashed', 'Flying Low', 'Flying High', 'In Space Low', 'In Space High', 'Flyby', 'Orbital Flight', 'Suborbital Flight', 'Atmospheric Flight', 'Surface Landed'],
+    'INSTRUMENT_ORDERS':['Surface Sample', 'EVA Report', 'Crew Report', 'Mystery Goo Observation', 'Materials Study', 'Temperature Scan', 'Atmospheric Pressure Scan', 'Seismic Scan', 'Atmosphere Analysis','Infrared Telescope', 'Gravity Scan','recovery'],
     'SHORT_FORMS':{
         'In Space High':'InSpaceHigh',
         'In Space Low':'InSpaceLow',
@@ -18,6 +18,11 @@ RESEARCH_DEPARTMENT = {
         'Flying Low':'FlyingLow',
         'Surface: Landed':'SrfLanded',
         'Surface: Splashed':'SrfSplashed',
+        'Flyby':'FlewBy',
+        'Orbital Flight':'Orbited',
+        'Suborbital Flight':'SubOrbited',
+        'Atmospheric Flight':'Flew',
+        'Surface Landed':'Surfaced',
         'Crew Report':'crewReport',
         'EVA Report':'evaReport',
         'Gravity Scan':'gravityScan',
@@ -27,8 +32,9 @@ RESEARCH_DEPARTMENT = {
         'Materials Study':'mobileMaterialsLab',
         'Atmospheric Pressure Scan': 'barometerScan',
         'Temperature Scan':'temperatureScan',
-        'Atmosphere Analysis': 'atmosphereAnalysis',
-        'Infrared Telescope': 'infraredTelescope'
+        'Atmosphere Analysis':'atmosphereAnalysis',
+        'Infrared Telescope':'infraredTelescope',
+        'recovery':'recovery'
     }
 }
 
@@ -68,9 +74,10 @@ function parse_all_science_csv(str){
         cols = lines[i].split(',')
         if(cols.length < 2){ continue; }
         sci = {'body':cols[0],'instrument':cols[2],'biome':cols[1], 'level':cols[3], 'location':cols[4], 'base': cols[5], 'max': cols[6]}
+        sci.body2 = sci.body=="Kerbol" ? "Sun" : sci.body // KSP use Sun in id for Kerbol
         sci.biome = sci.biome == "Universal" ? sci.body : sci.biome // Merge universale into planetary biome
         var short = RESEARCH_DEPARTMENT.SHORT_FORMS
-        sci.id = short[sci.instrument]+"@"+sci.body+short[sci.location]+(sci.biome!=sci.body ? sci.biome.replace(/ /g,'') : '')
+        sci.id = short[sci.instrument]+"@"+sci.body2+short[sci.location]+(sci.biome!=sci.body ? sci.biome.replace(/ /g,'') : '')
         out.push(sci)
     }
     return out
