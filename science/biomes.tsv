@@ -41,6 +41,7 @@ Kerbin - Deserts	Kerbin	Deserts
 Kerbin - Badlands	Kerbin	Badlands	
 Kerbin - Shores	Kerbin	Shores	
 Kerbin - Water	Kerbin	Water	
+Kerbin - KSC	Kerbin	KSC	SURFACE_ONLY
 Kerbin - Administration	Kerbin	Administration	SURFACE_ONLY
 Kerbin - Astronaut Complex	Kerbin	Astronaut Complex	SURFACE_ONLY
 Kerbin - Crawlerway	Kerbin	Crawlerway	SURFACE_ONLY
@@ -48,20 +49,41 @@ Kerbin - Flag Pole	Kerbin	Flag Pole	SURFACE_ONLY
 Kerbin - LaunchPad	Kerbin	LaunchPad	SURFACE_ONLY
 Kerbin - Mission Control	Kerbin	Mission Control	SURFACE_ONLY
 Kerbin - R&D	Kerbin	R&D	SURFACE_ONLY
+Kerbin - R&D Central Building	Kerbin	R&D Central Building	SURFACE_ONLY
+Kerbin - R&D Corner Lab	Kerbin	R&D Corner Lab	SURFACE_ONLY
+Kerbin - R&D Main Building	Kerbin	R&D Main Building	SURFACE_ONLY
+Kerbin - R&D Observatory	Kerbin	R&D Observatory	SURFACE_ONLY
+Kerbin - R&D Side Lab	Kerbin	R&D Side Lab	SURFACE_ONLY
+Kerbin - R&D Small Lab	Kerbin	R&D Small Lab	SURFACE_ONLY
+Kerbin - R&D Tanks	Kerbin	R&D Tanks	SURFACE_ONLY
+Kerbin - R&D Wind Tunnel	Kerbin	R&D Wind Tunnel	SURFACE_ONLY
 Kerbin - Runway	Kerbin	Runway	SURFACE_ONLY
 Kerbin - SPH	Kerbin	SPH	SURFACE_ONLY
+Kerbin - SPH Main Building	Kerbin	SPH Main Building	SURFACE_ONLY
+Kerbin - SPH Round Tank	Kerbin	SPH Round Tank	SURFACE_ONLY
+Kerbin - SPH Tanks	Kerbin	SPH Tanks	SURFACE_ONLY
+Kerbin - SPH Water Tower	Kerbin	SPH Water Tower	SURFACE_ONLY
 Kerbin - Tracking Station	Kerbin	Tracking Station	SURFACE_ONLY
+Kerbin - Tracking Station Dish East	Kerbin	Tracking Station Dish East	SURFACE_ONLY
+Kerbin - Tracking Station Dish North	Kerbin	Tracking Station Dish North	SURFACE_ONLY
+Kerbin - Tracking Station Dish South	Kerbin	Tracking Station Dish South	SURFACE_ONLY
+Kerbin - Tracking Station Hub	Kerbin	Tracking Station Hub	SURFACE_ONLY
 Kerbin - VAB	Kerbin	VAB	SURFACE_ONLY
+Kerbin - VAB Main Building	Kerbin	VAB Main Building	SURFACE_ONLY
+Kerbin - VAB Pod Memorial	Kerbin	VAB Pod Memorial	SURFACE_ONLY
+Kerbin - VAB Round Tank	Kerbin	VAB Round Tank	SURFACE_ONLY
+Kerbin - VAB SouthComplex	Kerbin	VAB SouthComplex	SURFACE_ONLY
+Kerbin - VAB Tanks	Kerbin	VAB Tanks	SURFACE_ONLY
 Mun - Poles	Mun	Poles	
 Mun - Polar Lowlands	Mun	Polar Lowlands	
 Mun - Polar Crater	Mun	Polar Crater	
 Mun - Highlands	Mun	Highlands	
-Mun - Highland Craters	Mun	Highland Craters	
-Mun - Midlands	Mun	Midlands	
-Mun - Midland Craters	Mun	Midland Craters	
-Mun - Lowlands	Mun	Lowlands	
-Mun - Northern Basin	Mun	Northern Basin	
-Mun - Farside Basin	Mun	Farside Basin	
+Mun - Highland Craters	Mun	Highland Craters
+Mun - Midlands	Mun	Midlands
+Mun - Midland Craters	Mun	Midland Craters
+Mun - Lowlands	Mun	Lowlands
+Mun - Northern Basin	Mun	Northern Basin
+Mun - Farside Basin	Mun	Farside Basin
 Mun - Northwest Crater	Mun	Northwest Crater
 Mun - East Farside Crater	Mun	East Farside Crater
 Mun - Canyons	Mun	Canyons
