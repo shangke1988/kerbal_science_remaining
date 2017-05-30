@@ -36,7 +36,7 @@ var ScienceBox = React.createClass({displayName: 'ScienceBox',
 
         var remainingDsp = Math.ceil(remaining)
         sciprog = Math.round(sciprog*10)/10;
-        var alt = this.props.science.instrument + "  " + this.props.science.location + ": " + sciprog + "/" + scimax;
+        var alt = this.props.science.instrument + "  " + this.props.science.location + ": " + Math.round(sciprog*100)/100 + "/" + Math.round(scimax*100)/100;
         var className = "science "+status
         return (
             React.DOM.a( {className:className, title:alt}, 
@@ -84,7 +84,7 @@ var BiomeBox = React.createClass({displayName: 'BiomeBox',
             React.DOM.div( {className:"biome"}, 
             React.DOM.progress( {value:sciprogall, max:scimaxall} ),
             React.DOM.div( {className:"sciall"}, rmall),
-            React.DOM.div( {className:"biomeHeader"}, this.props.biomeName),
+            React.DOM.div( {className:"biomeHeader", title:this.props.biomeName}, this.props.biomeName),
             sciences
             )
         )
