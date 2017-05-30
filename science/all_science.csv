@@ -1,281 +1,364 @@
 Kerbol,Kerbol,Mystery Goo Observation,1,Flying Low,10.0,13.0
 Kerbol,Kerbol,Mystery Goo Observation,1,Flying High,10.0,13.0
-Kerbol,Kerbol,Mystery Goo Observation,1,In Space Low,20.0,26.0
+Kerbol,Kerbol,Mystery Goo Observation,1,In Space Low,110.0,143.0
 Kerbol,Kerbol,Mystery Goo Observation,1,In Space High,20.0,26.0
 Kerbol,Kerbol,Materials Study,2,Flying Low,25.0,32.0
 Kerbol,Kerbol,Materials Study,2,Flying High,25.0,32.0
-Kerbol,Kerbol,Materials Study,2,In Space Low,50.0,64.0
+Kerbol,Kerbol,Materials Study,2,In Space Low,275.0,352.0
 Kerbol,Kerbol,Materials Study,2,In Space High,50.0,64.0
 Kerbol,Kerbol,Temperature Scan,4,Flying High,8.0,8.0
-Kerbol,Kerbol,Temperature Scan,4,In Space Low,16.0,16.0
+Kerbol,Kerbol,Temperature Scan,4,In Space Low,88.0,88.0
 Kerbol,Kerbol,Temperature Scan,4,In Space High,16.0,16.0
 Kerbol,Kerbol,Atmospheric Pressure Scan,5,Flying Low,12.0,12.0
 Kerbol,Kerbol,Atmospheric Pressure Scan,5,Flying High,12.0,12.0
-Kerbol,Kerbol,Atmospheric Pressure Scan,5,In Space Low,24.0,24.0
+Kerbol,Kerbol,Atmospheric Pressure Scan,5,In Space Low,132.0,132.0
 Kerbol,Kerbol,Atmospheric Pressure Scan,5,In Space High,24.0,24.0
 Kerbol,Kerbol,Crew Report,1,Flying High,5.0,5.0
-Kerbol,Kerbol,Crew Report,1,In Space Low,10.0,10.0
+Kerbol,Kerbol,Crew Report,1,In Space Low,55.0,55.0
 Kerbol,Kerbol,Crew Report,1,In Space High,10.0,10.0
 Kerbol,Kerbol,EVA Report,1,Flying High,8.0,8.0
 Kerbol,Kerbol,EVA Report,1,In Space High,16.0,16.0
 Kerbol,Kerbol,Infrared Telescope,7,In Space High,30.0,44.0
-Moho,Moho,Mystery Goo Observation,1,In Space Low,70.0,91.0
+Kerbol,Kerbol,recovery,1,Flyby,24.0,28.8
+Kerbol,Kerbol,recovery,1,Orbital Flight,32.0,38.4
+Kerbol,Kerbol,recovery,1,Suborbital Flight,40.0,48.0
+Kerbol,Kerbol,recovery,1,Atmospheric Flight,48.0,57.6
+Kerbol,Kerbol,recovery,1,Surface Landed,60.0,72.0
+Moho,Moho,Mystery Goo Observation,1,In Space Low,80.0,104.0
 Moho,Moho,Mystery Goo Observation,1,In Space High,70.0,91.0
-Moho,Moho,Materials Study,2,In Space Low,175.0,224.0
+Moho,Moho,Materials Study,2,In Space Low,200.0,256.0
 Moho,Moho,Materials Study,2,In Space High,175.0,224.0
-Moho,Moho,Temperature Scan,4,In Space Low,56.0,56.0
+Moho,Moho,Temperature Scan,4,In Space Low,64.0,64.0
 Moho,Moho,Temperature Scan,4,In Space High,56.0,56.0
-Moho,Moho,Atmospheric Pressure Scan,5,In Space Low,84.0,84.0
+Moho,Moho,Atmospheric Pressure Scan,5,In Space Low,96.0,96.0
 Moho,Moho,Atmospheric Pressure Scan,5,In Space High,84.0,84.0
-Moho,Moho,Crew Report,1,In Space Low,35.0,35.0
+Moho,Moho,Crew Report,1,In Space Low,40.0,40.0
 Moho,Moho,Crew Report,1,In Space High,35.0,35.0
 Moho,Moho,EVA Report,1,In Space High,56.0,56.0
 Moho,Moho,Infrared Telescope,7,In Space High,105.0,154.0
+Moho,Moho,recovery,1,Flyby,42.0,50.4
+Moho,Moho,recovery,1,Orbital Flight,56.0,67.2
+Moho,Moho,recovery,1,Suborbital Flight,70.0,84.0
+Moho,Moho,recovery,1,Atmospheric Flight,84.0,100.8
+Moho,Moho,recovery,1,Surface Landed,105.0,126.0
 Eve,Eve,Mystery Goo Observation,1,Flying Low,60.0,78.0
 Eve,Eve,Mystery Goo Observation,1,Flying High,60.0,78.0
-Eve,Eve,Mystery Goo Observation,1,In Space Low,50.0,65.0
+Eve,Eve,Mystery Goo Observation,1,In Space Low,70.0,91.0
 Eve,Eve,Mystery Goo Observation,1,In Space High,50.0,65.0
 Eve,Eve,Materials Study,2,Flying Low,150.0,192.0
 Eve,Eve,Materials Study,2,Flying High,150.0,192.0
-Eve,Eve,Materials Study,2,In Space Low,125.0,160.0
+Eve,Eve,Materials Study,2,In Space Low,175.0,224.0
 Eve,Eve,Materials Study,2,In Space High,125.0,160.0
 Eve,Eve,Temperature Scan,4,Flying High,48.0,48.0
-Eve,Eve,Temperature Scan,4,In Space Low,40.0,40.0
+Eve,Eve,Temperature Scan,4,In Space Low,56.0,56.0
 Eve,Eve,Temperature Scan,4,In Space High,40.0,40.0
 Eve,Eve,Atmospheric Pressure Scan,5,Flying Low,72.0,72.0
 Eve,Eve,Atmospheric Pressure Scan,5,Flying High,72.0,72.0
-Eve,Eve,Atmospheric Pressure Scan,5,In Space Low,60.0,60.0
+Eve,Eve,Atmospheric Pressure Scan,5,In Space Low,84.0,84.0
 Eve,Eve,Atmospheric Pressure Scan,5,In Space High,60.0,60.0
 Eve,Eve,Crew Report,1,Flying High,30.0,30.0
-Eve,Eve,Crew Report,1,In Space Low,25.0,25.0
+Eve,Eve,Crew Report,1,In Space Low,35.0,35.0
 Eve,Eve,Crew Report,1,In Space High,25.0,25.0
 Eve,Eve,EVA Report,1,Flying High,48.0,48.0
 Eve,Eve,EVA Report,1,In Space High,40.0,40.0
 Eve,Eve,Infrared Telescope,7,In Space High,75.0,110.0
-Gilly,Gilly,Mystery Goo Observation,1,In Space Low,60.0,78.0
+Eve,Eve,recovery,1,Flyby,30.0,36.0
+Eve,Eve,recovery,1,Orbital Flight,40.0,48.0
+Eve,Eve,recovery,1,Suborbital Flight,50.0,60.0
+Eve,Eve,recovery,1,Atmospheric Flight,60.0,72.0
+Eve,Eve,recovery,1,Surface Landed,75.0,90.0
+Gilly,Gilly,Mystery Goo Observation,1,In Space Low,80.0,104.0
 Gilly,Gilly,Mystery Goo Observation,1,In Space High,60.0,78.0
-Gilly,Gilly,Materials Study,2,In Space Low,150.0,192.0
+Gilly,Gilly,Materials Study,2,In Space Low,200.0,256.0
 Gilly,Gilly,Materials Study,2,In Space High,150.0,192.0
-Gilly,Gilly,Temperature Scan,4,In Space Low,48.0,48.0
+Gilly,Gilly,Temperature Scan,4,In Space Low,64.0,64.0
 Gilly,Gilly,Temperature Scan,4,In Space High,48.0,48.0
-Gilly,Gilly,Atmospheric Pressure Scan,5,In Space Low,72.0,72.0
+Gilly,Gilly,Atmospheric Pressure Scan,5,In Space Low,96.0,96.0
 Gilly,Gilly,Atmospheric Pressure Scan,5,In Space High,72.0,72.0
-Gilly,Gilly,Crew Report,1,In Space Low,30.0,30.0
+Gilly,Gilly,Crew Report,1,In Space Low,40.0,40.0
 Gilly,Gilly,Crew Report,1,In Space High,30.0,30.0
 Gilly,Gilly,EVA Report,1,In Space High,48.0,48.0
 Gilly,Gilly,Infrared Telescope,7,In Space High,90.0,132.0
+Gilly,Gilly,recovery,1,Flyby,36.0,43.2
+Gilly,Gilly,recovery,1,Orbital Flight,48.0,57.599999999999994
+Gilly,Gilly,recovery,1,Suborbital Flight,60.0,72.0
+Gilly,Gilly,recovery,1,Atmospheric Flight,72.0,86.4
+Gilly,Gilly,recovery,1,Surface Landed,90.0,108.0
 Kerbin,Kerbin,Mystery Goo Observation,1,Flying Low,7.0,9.1
 Kerbin,Kerbin,Mystery Goo Observation,1,Flying High,9.0,11.700000000000001
-Kerbin,Kerbin,Mystery Goo Observation,1,In Space Low,15.0,19.5
+Kerbin,Kerbin,Mystery Goo Observation,1,In Space Low,10.0,13.0
 Kerbin,Kerbin,Mystery Goo Observation,1,In Space High,15.0,19.5
 Kerbin,Kerbin,Materials Study,2,Flying Low,17.5,22.4
 Kerbin,Kerbin,Materials Study,2,Flying High,22.5,28.8
-Kerbin,Kerbin,Materials Study,2,In Space Low,37.5,48.0
+Kerbin,Kerbin,Materials Study,2,In Space Low,25.0,32.0
 Kerbin,Kerbin,Materials Study,2,In Space High,37.5,48.0
 Kerbin,Kerbin,Temperature Scan,4,Flying High,7.2,7.2
-Kerbin,Kerbin,Temperature Scan,4,In Space Low,12.0,12.0
+Kerbin,Kerbin,Temperature Scan,4,In Space Low,8.0,8.0
 Kerbin,Kerbin,Temperature Scan,4,In Space High,12.0,12.0
 Kerbin,Kerbin,Atmospheric Pressure Scan,5,Flying Low,8.399999999999999,8.399999999999999
 Kerbin,Kerbin,Atmospheric Pressure Scan,5,Flying High,10.8,10.8
-Kerbin,Kerbin,Atmospheric Pressure Scan,5,In Space Low,18.0,18.0
+Kerbin,Kerbin,Atmospheric Pressure Scan,5,In Space Low,12.0,12.0
 Kerbin,Kerbin,Atmospheric Pressure Scan,5,In Space High,18.0,18.0
 Kerbin,Kerbin,Crew Report,1,Flying High,4.5,4.5
-Kerbin,Kerbin,Crew Report,1,In Space Low,7.5,7.5
+Kerbin,Kerbin,Crew Report,1,In Space Low,5.0,5.0
 Kerbin,Kerbin,Crew Report,1,In Space High,7.5,7.5
 Kerbin,Kerbin,EVA Report,1,Flying High,7.2,7.2
 Kerbin,Kerbin,EVA Report,1,In Space High,12.0,12.0
 Kerbin,Kerbin,Infrared Telescope,7,In Space High,22.5,33.0
-Mun,Mun,Mystery Goo Observation,1,In Space Low,20.0,26.0
+Kerbin,Kerbin,recovery,1,Orbital Flight,10.0,12.0
+Kerbin,Kerbin,recovery,1,Suborbital Flight,8.0,9.6
+Kerbin,Kerbin,recovery,1,Atmospheric Flight,5.0,6.0
+Mun,Mun,Mystery Goo Observation,1,In Space Low,30.0,39.0
 Mun,Mun,Mystery Goo Observation,1,In Space High,20.0,26.0
-Mun,Mun,Materials Study,2,In Space Low,50.0,64.0
+Mun,Mun,Materials Study,2,In Space Low,75.0,96.0
 Mun,Mun,Materials Study,2,In Space High,50.0,64.0
-Mun,Mun,Temperature Scan,4,In Space Low,16.0,16.0
+Mun,Mun,Temperature Scan,4,In Space Low,24.0,24.0
 Mun,Mun,Temperature Scan,4,In Space High,16.0,16.0
-Mun,Mun,Atmospheric Pressure Scan,5,In Space Low,24.0,24.0
+Mun,Mun,Atmospheric Pressure Scan,5,In Space Low,36.0,36.0
 Mun,Mun,Atmospheric Pressure Scan,5,In Space High,24.0,24.0
-Mun,Mun,Crew Report,1,In Space Low,10.0,10.0
+Mun,Mun,Crew Report,1,In Space Low,15.0,15.0
 Mun,Mun,Crew Report,1,In Space High,10.0,10.0
 Mun,Mun,EVA Report,1,In Space High,16.0,16.0
 Mun,Mun,Infrared Telescope,7,In Space High,30.0,44.0
-Minmus,Minmus,Mystery Goo Observation,1,In Space Low,25.0,32.5
+Mun,Mun,recovery,1,Flyby,12.0,14.4
+Mun,Mun,recovery,1,Orbital Flight,16.0,19.2
+Mun,Mun,recovery,1,Suborbital Flight,20.0,24.0
+Mun,Mun,recovery,1,Atmospheric Flight,24.0,28.8
+Mun,Mun,recovery,1,Surface Landed,30.0,36.0
+Minmus,Minmus,Mystery Goo Observation,1,In Space Low,40.0,52.0
 Minmus,Minmus,Mystery Goo Observation,1,In Space High,25.0,32.5
-Minmus,Minmus,Materials Study,2,In Space Low,62.5,80.0
+Minmus,Minmus,Materials Study,2,In Space Low,100.0,128.0
 Minmus,Minmus,Materials Study,2,In Space High,62.5,80.0
-Minmus,Minmus,Temperature Scan,4,In Space Low,20.0,20.0
+Minmus,Minmus,Temperature Scan,4,In Space Low,32.0,32.0
 Minmus,Minmus,Temperature Scan,4,In Space High,20.0,20.0
-Minmus,Minmus,Atmospheric Pressure Scan,5,In Space Low,30.0,30.0
+Minmus,Minmus,Atmospheric Pressure Scan,5,In Space Low,48.0,48.0
 Minmus,Minmus,Atmospheric Pressure Scan,5,In Space High,30.0,30.0
-Minmus,Minmus,Crew Report,1,In Space Low,12.5,12.5
+Minmus,Minmus,Crew Report,1,In Space Low,20.0,20.0
 Minmus,Minmus,Crew Report,1,In Space High,12.5,12.5
 Minmus,Minmus,EVA Report,1,In Space High,20.0,20.0
 Minmus,Minmus,Infrared Telescope,7,In Space High,37.5,55.0
+Minmus,Minmus,recovery,1,Flyby,15.0,18.0
+Minmus,Minmus,recovery,1,Orbital Flight,20.0,24.0
+Minmus,Minmus,recovery,1,Suborbital Flight,25.0,30.0
+Minmus,Minmus,recovery,1,Atmospheric Flight,30.0,36.0
+Minmus,Minmus,recovery,1,Surface Landed,37.5,45.0
 Duna,Duna,Mystery Goo Observation,1,Flying Low,50.0,65.0
 Duna,Duna,Mystery Goo Observation,1,Flying High,50.0,65.0
-Duna,Duna,Mystery Goo Observation,1,In Space Low,50.0,65.0
+Duna,Duna,Mystery Goo Observation,1,In Space Low,70.0,91.0
 Duna,Duna,Mystery Goo Observation,1,In Space High,50.0,65.0
 Duna,Duna,Materials Study,2,Flying Low,125.0,160.0
 Duna,Duna,Materials Study,2,Flying High,125.0,160.0
-Duna,Duna,Materials Study,2,In Space Low,125.0,160.0
+Duna,Duna,Materials Study,2,In Space Low,175.0,224.0
 Duna,Duna,Materials Study,2,In Space High,125.0,160.0
 Duna,Duna,Temperature Scan,4,Flying High,40.0,40.0
-Duna,Duna,Temperature Scan,4,In Space Low,40.0,40.0
+Duna,Duna,Temperature Scan,4,In Space Low,56.0,56.0
 Duna,Duna,Temperature Scan,4,In Space High,40.0,40.0
 Duna,Duna,Atmospheric Pressure Scan,5,Flying Low,60.0,60.0
 Duna,Duna,Atmospheric Pressure Scan,5,Flying High,60.0,60.0
-Duna,Duna,Atmospheric Pressure Scan,5,In Space Low,60.0,60.0
+Duna,Duna,Atmospheric Pressure Scan,5,In Space Low,84.0,84.0
 Duna,Duna,Atmospheric Pressure Scan,5,In Space High,60.0,60.0
 Duna,Duna,Crew Report,1,Flying High,25.0,25.0
-Duna,Duna,Crew Report,1,In Space Low,25.0,25.0
+Duna,Duna,Crew Report,1,In Space Low,35.0,35.0
 Duna,Duna,Crew Report,1,In Space High,25.0,25.0
 Duna,Duna,EVA Report,1,Flying High,40.0,40.0
 Duna,Duna,EVA Report,1,In Space High,40.0,40.0
 Duna,Duna,Infrared Telescope,7,In Space High,75.0,110.0
-Ike,Ike,Mystery Goo Observation,1,In Space Low,50.0,65.0
+Duna,Duna,recovery,1,Flyby,30.0,36.0
+Duna,Duna,recovery,1,Orbital Flight,40.0,48.0
+Duna,Duna,recovery,1,Suborbital Flight,50.0,60.0
+Duna,Duna,recovery,1,Atmospheric Flight,60.0,72.0
+Duna,Duna,recovery,1,Surface Landed,75.0,90.0
+Ike,Ike,Mystery Goo Observation,1,In Space Low,70.0,91.0
 Ike,Ike,Mystery Goo Observation,1,In Space High,50.0,65.0
-Ike,Ike,Materials Study,2,In Space Low,125.0,160.0
+Ike,Ike,Materials Study,2,In Space Low,175.0,224.0
 Ike,Ike,Materials Study,2,In Space High,125.0,160.0
-Ike,Ike,Temperature Scan,4,In Space Low,40.0,40.0
+Ike,Ike,Temperature Scan,4,In Space Low,56.0,56.0
 Ike,Ike,Temperature Scan,4,In Space High,40.0,40.0
-Ike,Ike,Atmospheric Pressure Scan,5,In Space Low,60.0,60.0
+Ike,Ike,Atmospheric Pressure Scan,5,In Space Low,84.0,84.0
 Ike,Ike,Atmospheric Pressure Scan,5,In Space High,60.0,60.0
-Ike,Ike,Crew Report,1,In Space Low,25.0,25.0
+Ike,Ike,Crew Report,1,In Space Low,35.0,35.0
 Ike,Ike,Crew Report,1,In Space High,25.0,25.0
 Ike,Ike,EVA Report,1,In Space High,40.0,40.0
 Ike,Ike,Infrared Telescope,7,In Space High,75.0,110.0
-Dres,Dres,Mystery Goo Observation,1,In Space Low,60.0,78.0
+Ike,Ike,recovery,1,Flyby,30.0,36.0
+Ike,Ike,recovery,1,Orbital Flight,40.0,48.0
+Ike,Ike,recovery,1,Suborbital Flight,50.0,60.0
+Ike,Ike,recovery,1,Atmospheric Flight,60.0,72.0
+Ike,Ike,recovery,1,Surface Landed,75.0,90.0
+Dres,Dres,Mystery Goo Observation,1,In Space Low,70.0,91.0
 Dres,Dres,Mystery Goo Observation,1,In Space High,60.0,78.0
-Dres,Dres,Materials Study,2,In Space Low,150.0,192.0
+Dres,Dres,Materials Study,2,In Space Low,175.0,224.0
 Dres,Dres,Materials Study,2,In Space High,150.0,192.0
-Dres,Dres,Temperature Scan,4,In Space Low,48.0,48.0
+Dres,Dres,Temperature Scan,4,In Space Low,56.0,56.0
 Dres,Dres,Temperature Scan,4,In Space High,48.0,48.0
-Dres,Dres,Atmospheric Pressure Scan,5,In Space Low,72.0,72.0
+Dres,Dres,Atmospheric Pressure Scan,5,In Space Low,84.0,84.0
 Dres,Dres,Atmospheric Pressure Scan,5,In Space High,72.0,72.0
-Dres,Dres,Crew Report,1,In Space Low,30.0,30.0
+Dres,Dres,Crew Report,1,In Space Low,35.0,35.0
 Dres,Dres,Crew Report,1,In Space High,30.0,30.0
 Dres,Dres,EVA Report,1,In Space High,48.0,48.0
 Dres,Dres,Infrared Telescope,7,In Space High,90.0,132.0
+Dres,Dres,recovery,1,Flyby,36.0,43.2
+Dres,Dres,recovery,1,Orbital Flight,48.0,57.599999999999994
+Dres,Dres,recovery,1,Suborbital Flight,60.0,72.0
+Dres,Dres,recovery,1,Atmospheric Flight,72.0,86.4
+Dres,Dres,recovery,1,Surface Landed,90.0,108.0
 Jool,Jool,Mystery Goo Observation,1,Flying Low,120.0,156.0
 Jool,Jool,Mystery Goo Observation,1,Flying High,90.0,117.0
-Jool,Jool,Mystery Goo Observation,1,In Space Low,60.0,78.0
+Jool,Jool,Mystery Goo Observation,1,In Space Low,70.0,91.0
 Jool,Jool,Mystery Goo Observation,1,In Space High,60.0,78.0
 Jool,Jool,Materials Study,2,Flying Low,300.0,384.0
 Jool,Jool,Materials Study,2,Flying High,225.0,288.0
-Jool,Jool,Materials Study,2,In Space Low,150.0,192.0
+Jool,Jool,Materials Study,2,In Space Low,175.0,224.0
 Jool,Jool,Materials Study,2,In Space High,150.0,192.0
 Jool,Jool,Temperature Scan,4,Flying High,72.0,72.0
-Jool,Jool,Temperature Scan,4,In Space Low,48.0,48.0
+Jool,Jool,Temperature Scan,4,In Space Low,56.0,56.0
 Jool,Jool,Temperature Scan,4,In Space High,48.0,48.0
 Jool,Jool,Atmospheric Pressure Scan,5,Flying Low,144.0,144.0
 Jool,Jool,Atmospheric Pressure Scan,5,Flying High,108.0,108.0
-Jool,Jool,Atmospheric Pressure Scan,5,In Space Low,72.0,72.0
+Jool,Jool,Atmospheric Pressure Scan,5,In Space Low,84.0,84.0
 Jool,Jool,Atmospheric Pressure Scan,5,In Space High,72.0,72.0
 Jool,Jool,Crew Report,1,Flying High,45.0,45.0
-Jool,Jool,Crew Report,1,In Space Low,30.0,30.0
+Jool,Jool,Crew Report,1,In Space Low,35.0,35.0
 Jool,Jool,Crew Report,1,In Space High,30.0,30.0
 Jool,Jool,EVA Report,1,Flying High,72.0,72.0
 Jool,Jool,EVA Report,1,In Space High,48.0,48.0
 Jool,Jool,Infrared Telescope,7,In Space High,90.0,132.0
+Jool,Jool,recovery,1,Flyby,36.0,43.2
+Jool,Jool,recovery,1,Orbital Flight,48.0,57.599999999999994
+Jool,Jool,recovery,1,Suborbital Flight,60.0,72.0
+Jool,Jool,recovery,1,Atmospheric Flight,72.0,86.4
+Jool,Jool,recovery,1,Surface Landed,90.0,108.0
 Laythe,Laythe,Mystery Goo Observation,1,Flying Low,110.0,143.0
 Laythe,Laythe,Mystery Goo Observation,1,Flying High,100.0,130.0
-Laythe,Laythe,Mystery Goo Observation,1,In Space Low,80.0,104.0
+Laythe,Laythe,Mystery Goo Observation,1,In Space Low,90.0,117.0
 Laythe,Laythe,Mystery Goo Observation,1,In Space High,80.0,104.0
 Laythe,Laythe,Materials Study,2,Flying Low,275.0,352.0
 Laythe,Laythe,Materials Study,2,Flying High,250.0,320.0
-Laythe,Laythe,Materials Study,2,In Space Low,200.0,256.0
+Laythe,Laythe,Materials Study,2,In Space Low,225.0,288.0
 Laythe,Laythe,Materials Study,2,In Space High,200.0,256.0
 Laythe,Laythe,Temperature Scan,4,Flying High,80.0,80.0
-Laythe,Laythe,Temperature Scan,4,In Space Low,64.0,64.0
+Laythe,Laythe,Temperature Scan,4,In Space Low,72.0,72.0
 Laythe,Laythe,Temperature Scan,4,In Space High,64.0,64.0
 Laythe,Laythe,Atmospheric Pressure Scan,5,Flying Low,132.0,132.0
 Laythe,Laythe,Atmospheric Pressure Scan,5,Flying High,120.0,120.0
-Laythe,Laythe,Atmospheric Pressure Scan,5,In Space Low,96.0,96.0
+Laythe,Laythe,Atmospheric Pressure Scan,5,In Space Low,108.0,108.0
 Laythe,Laythe,Atmospheric Pressure Scan,5,In Space High,96.0,96.0
 Laythe,Laythe,Crew Report,1,Flying High,50.0,50.0
-Laythe,Laythe,Crew Report,1,In Space Low,40.0,40.0
+Laythe,Laythe,Crew Report,1,In Space Low,45.0,45.0
 Laythe,Laythe,Crew Report,1,In Space High,40.0,40.0
 Laythe,Laythe,EVA Report,1,Flying High,80.0,80.0
 Laythe,Laythe,EVA Report,1,In Space High,64.0,64.0
 Laythe,Laythe,Infrared Telescope,7,In Space High,120.0,176.0
-Vall,Vall,Mystery Goo Observation,1,In Space Low,80.0,104.0
+Laythe,Laythe,recovery,1,Flyby,48.0,57.6
+Laythe,Laythe,recovery,1,Orbital Flight,64.0,76.8
+Laythe,Laythe,recovery,1,Suborbital Flight,80.0,96.0
+Laythe,Laythe,recovery,1,Atmospheric Flight,96.0,115.2
+Laythe,Laythe,recovery,1,Surface Landed,120.0,144.0
+Vall,Vall,Mystery Goo Observation,1,In Space Low,90.0,117.0
 Vall,Vall,Mystery Goo Observation,1,In Space High,80.0,104.0
-Vall,Vall,Materials Study,2,In Space Low,200.0,256.0
+Vall,Vall,Materials Study,2,In Space Low,225.0,288.0
 Vall,Vall,Materials Study,2,In Space High,200.0,256.0
-Vall,Vall,Temperature Scan,4,In Space Low,64.0,64.0
+Vall,Vall,Temperature Scan,4,In Space Low,72.0,72.0
 Vall,Vall,Temperature Scan,4,In Space High,64.0,64.0
-Vall,Vall,Atmospheric Pressure Scan,5,In Space Low,96.0,96.0
+Vall,Vall,Atmospheric Pressure Scan,5,In Space Low,108.0,108.0
 Vall,Vall,Atmospheric Pressure Scan,5,In Space High,96.0,96.0
-Vall,Vall,Crew Report,1,In Space Low,40.0,40.0
+Vall,Vall,Crew Report,1,In Space Low,45.0,45.0
 Vall,Vall,Crew Report,1,In Space High,40.0,40.0
 Vall,Vall,EVA Report,1,In Space High,64.0,64.0
 Vall,Vall,Infrared Telescope,7,In Space High,120.0,176.0
-Tylo,Tylo,Mystery Goo Observation,1,In Space Low,80.0,104.0
+Vall,Vall,recovery,1,Flyby,48.0,57.6
+Vall,Vall,recovery,1,Orbital Flight,64.0,76.8
+Vall,Vall,recovery,1,Suborbital Flight,80.0,96.0
+Vall,Vall,recovery,1,Atmospheric Flight,96.0,115.2
+Vall,Vall,recovery,1,Surface Landed,120.0,144.0
+Tylo,Tylo,Mystery Goo Observation,1,In Space Low,100.0,130.0
 Tylo,Tylo,Mystery Goo Observation,1,In Space High,80.0,104.0
-Tylo,Tylo,Materials Study,2,In Space Low,200.0,256.0
+Tylo,Tylo,Materials Study,2,In Space Low,250.0,320.0
 Tylo,Tylo,Materials Study,2,In Space High,200.0,256.0
-Tylo,Tylo,Temperature Scan,4,In Space Low,64.0,64.0
+Tylo,Tylo,Temperature Scan,4,In Space Low,80.0,80.0
 Tylo,Tylo,Temperature Scan,4,In Space High,64.0,64.0
-Tylo,Tylo,Atmospheric Pressure Scan,5,In Space Low,96.0,96.0
+Tylo,Tylo,Atmospheric Pressure Scan,5,In Space Low,120.0,120.0
 Tylo,Tylo,Atmospheric Pressure Scan,5,In Space High,96.0,96.0
-Tylo,Tylo,Crew Report,1,In Space Low,40.0,40.0
+Tylo,Tylo,Crew Report,1,In Space Low,50.0,50.0
 Tylo,Tylo,Crew Report,1,In Space High,40.0,40.0
 Tylo,Tylo,EVA Report,1,In Space High,64.0,64.0
 Tylo,Tylo,Infrared Telescope,7,In Space High,120.0,176.0
-Bop,Bop,Mystery Goo Observation,1,In Space Low,80.0,104.0
+Tylo,Tylo,recovery,1,Flyby,48.0,57.6
+Tylo,Tylo,recovery,1,Orbital Flight,64.0,76.8
+Tylo,Tylo,recovery,1,Suborbital Flight,80.0,96.0
+Tylo,Tylo,recovery,1,Atmospheric Flight,96.0,115.2
+Tylo,Tylo,recovery,1,Surface Landed,120.0,144.0
+Bop,Bop,Mystery Goo Observation,1,In Space Low,90.0,117.0
 Bop,Bop,Mystery Goo Observation,1,In Space High,80.0,104.0
-Bop,Bop,Materials Study,2,In Space Low,200.0,256.0
+Bop,Bop,Materials Study,2,In Space Low,225.0,288.0
 Bop,Bop,Materials Study,2,In Space High,200.0,256.0
-Bop,Bop,Temperature Scan,4,In Space Low,64.0,64.0
+Bop,Bop,Temperature Scan,4,In Space Low,72.0,72.0
 Bop,Bop,Temperature Scan,4,In Space High,64.0,64.0
-Bop,Bop,Atmospheric Pressure Scan,5,In Space Low,96.0,96.0
+Bop,Bop,Atmospheric Pressure Scan,5,In Space Low,108.0,108.0
 Bop,Bop,Atmospheric Pressure Scan,5,In Space High,96.0,96.0
-Bop,Bop,Crew Report,1,In Space Low,40.0,40.0
+Bop,Bop,Crew Report,1,In Space Low,45.0,45.0
 Bop,Bop,Crew Report,1,In Space High,40.0,40.0
 Bop,Bop,EVA Report,1,In Space High,64.0,64.0
 Bop,Bop,Infrared Telescope,7,In Space High,120.0,176.0
-Pol,Pol,Mystery Goo Observation,1,In Space Low,80.0,104.0
+Bop,Bop,recovery,1,Flyby,48.0,57.6
+Bop,Bop,recovery,1,Orbital Flight,64.0,76.8
+Bop,Bop,recovery,1,Suborbital Flight,80.0,96.0
+Bop,Bop,recovery,1,Atmospheric Flight,96.0,115.2
+Bop,Bop,recovery,1,Surface Landed,120.0,144.0
+Pol,Pol,Mystery Goo Observation,1,In Space Low,90.0,117.0
 Pol,Pol,Mystery Goo Observation,1,In Space High,80.0,104.0
-Pol,Pol,Materials Study,2,In Space Low,200.0,256.0
+Pol,Pol,Materials Study,2,In Space Low,225.0,288.0
 Pol,Pol,Materials Study,2,In Space High,200.0,256.0
-Pol,Pol,Temperature Scan,4,In Space Low,64.0,64.0
+Pol,Pol,Temperature Scan,4,In Space Low,72.0,72.0
 Pol,Pol,Temperature Scan,4,In Space High,64.0,64.0
-Pol,Pol,Atmospheric Pressure Scan,5,In Space Low,96.0,96.0
+Pol,Pol,Atmospheric Pressure Scan,5,In Space Low,108.0,108.0
 Pol,Pol,Atmospheric Pressure Scan,5,In Space High,96.0,96.0
-Pol,Pol,Crew Report,1,In Space Low,40.0,40.0
+Pol,Pol,Crew Report,1,In Space Low,45.0,45.0
 Pol,Pol,Crew Report,1,In Space High,40.0,40.0
 Pol,Pol,EVA Report,1,In Space High,64.0,64.0
 Pol,Pol,Infrared Telescope,7,In Space High,120.0,176.0
-Eeloo,Eeloo,Mystery Goo Observation,1,In Space Low,100.0,130.0
+Pol,Pol,recovery,1,Flyby,48.0,57.6
+Pol,Pol,recovery,1,Orbital Flight,64.0,76.8
+Pol,Pol,recovery,1,Suborbital Flight,80.0,96.0
+Pol,Pol,recovery,1,Atmospheric Flight,96.0,115.2
+Pol,Pol,recovery,1,Surface Landed,120.0,144.0
+Eeloo,Eeloo,Mystery Goo Observation,1,In Space Low,120.0,156.0
 Eeloo,Eeloo,Mystery Goo Observation,1,In Space High,100.0,130.0
-Eeloo,Eeloo,Materials Study,2,In Space Low,250.0,320.0
+Eeloo,Eeloo,Materials Study,2,In Space Low,300.0,384.0
 Eeloo,Eeloo,Materials Study,2,In Space High,250.0,320.0
-Eeloo,Eeloo,Temperature Scan,4,In Space Low,80.0,80.0
+Eeloo,Eeloo,Temperature Scan,4,In Space Low,96.0,96.0
 Eeloo,Eeloo,Temperature Scan,4,In Space High,80.0,80.0
-Eeloo,Eeloo,Atmospheric Pressure Scan,5,In Space Low,120.0,120.0
+Eeloo,Eeloo,Atmospheric Pressure Scan,5,In Space Low,144.0,144.0
 Eeloo,Eeloo,Atmospheric Pressure Scan,5,In Space High,120.0,120.0
-Eeloo,Eeloo,Crew Report,1,In Space Low,50.0,50.0
+Eeloo,Eeloo,Crew Report,1,In Space Low,60.0,60.0
 Eeloo,Eeloo,Crew Report,1,In Space High,50.0,50.0
 Eeloo,Eeloo,EVA Report,1,In Space High,80.0,80.0
 Eeloo,Eeloo,Infrared Telescope,7,In Space High,150.0,220.0
+Eeloo,Eeloo,recovery,1,Flyby,60.0,72.0
+Eeloo,Eeloo,recovery,1,Orbital Flight,80.0,96.0
+Eeloo,Eeloo,recovery,1,Suborbital Flight,100.0,120.0
+Eeloo,Eeloo,recovery,1,Atmospheric Flight,120.0,144.0
+Eeloo,Eeloo,recovery,1,Surface Landed,150.0,180.0
 Kerbol,Universal,Temperature Scan,4,Flying Low,8.0,8.0
-Kerbol,Universal,Gravity Scan,8,In Space Low,40.0,44.0
+Kerbol,Universal,Gravity Scan,8,In Space Low,220.0,242.0
 Kerbol,Universal,Gravity Scan,8,In Space High,40.0,44.0
 Kerbol,Universal,Atmosphere Analysis,7,Flying Low,20.0,24.0
 Kerbol,Universal,Atmosphere Analysis,7,Flying High,20.0,24.0
 Kerbol,Universal,Crew Report,1,Flying Low,5.0,5.0
 Kerbol,Universal,EVA Report,1,Flying Low,8.0,8.0
-Kerbol,Universal,EVA Report,1,In Space Low,16.0,16.0
+Kerbol,Universal,EVA Report,1,In Space Low,88.0,88.0
 Moho,North Pole,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,North Pole,Materials Study,2,Surface: Landed,250.0,320.0
 Moho,North Pole,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,North Pole,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,North Pole,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,North Pole,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,North Pole,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,North Pole,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,North Pole,Gravity Scan,8,In Space High,140.0,154.0
 Moho,North Pole,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,North Pole,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,North Pole,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,North Pole,EVA Report,1,In Space Low,56.0,56.0
+Moho,North Pole,EVA Report,1,In Space Low,64.0,64.0
 Moho,North Pole,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Northern Sinkhole Ridge,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Northern Sinkhole Ridge,Materials Study,2,Surface: Landed,250.0,320.0
@@ -283,12 +366,12 @@ Moho,Northern Sinkhole Ridge,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Northern Sinkhole Ridge,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Northern Sinkhole Ridge,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Northern Sinkhole Ridge,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Northern Sinkhole Ridge,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Northern Sinkhole Ridge,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Northern Sinkhole Ridge,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Northern Sinkhole Ridge,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Northern Sinkhole Ridge,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Northern Sinkhole Ridge,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Northern Sinkhole Ridge,EVA Report,1,In Space Low,56.0,56.0
+Moho,Northern Sinkhole Ridge,EVA Report,1,In Space Low,64.0,64.0
 Moho,Northern Sinkhole Ridge,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Northern Sinkhole,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Northern Sinkhole,Materials Study,2,Surface: Landed,250.0,320.0
@@ -296,12 +379,12 @@ Moho,Northern Sinkhole,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Northern Sinkhole,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Northern Sinkhole,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Northern Sinkhole,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Northern Sinkhole,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Northern Sinkhole,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Northern Sinkhole,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Northern Sinkhole,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Northern Sinkhole,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Northern Sinkhole,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Northern Sinkhole,EVA Report,1,In Space Low,56.0,56.0
+Moho,Northern Sinkhole,EVA Report,1,In Space Low,64.0,64.0
 Moho,Northern Sinkhole,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Highlands,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Highlands,Materials Study,2,Surface: Landed,250.0,320.0
@@ -309,12 +392,12 @@ Moho,Highlands,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Highlands,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Highlands,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Highlands,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Highlands,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Highlands,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Highlands,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Highlands,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Highlands,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Highlands,EVA Report,1,In Space Low,56.0,56.0
+Moho,Highlands,EVA Report,1,In Space Low,64.0,64.0
 Moho,Highlands,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Midlands,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Midlands,Materials Study,2,Surface: Landed,250.0,320.0
@@ -322,12 +405,12 @@ Moho,Midlands,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Midlands,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Midlands,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Midlands,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Midlands,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Midlands,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Midlands,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Midlands,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Midlands,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Midlands,EVA Report,1,In Space Low,56.0,56.0
+Moho,Midlands,EVA Report,1,In Space Low,64.0,64.0
 Moho,Midlands,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Minor Craters,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Minor Craters,Materials Study,2,Surface: Landed,250.0,320.0
@@ -335,12 +418,12 @@ Moho,Minor Craters,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Minor Craters,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Minor Craters,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Minor Craters,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Minor Craters,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Minor Craters,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Minor Craters,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Minor Craters,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Minor Craters,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Minor Craters,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Minor Craters,EVA Report,1,In Space Low,56.0,56.0
+Moho,Minor Craters,EVA Report,1,In Space Low,64.0,64.0
 Moho,Minor Craters,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Central Lowlands,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Central Lowlands,Materials Study,2,Surface: Landed,250.0,320.0
@@ -348,12 +431,12 @@ Moho,Central Lowlands,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Central Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Central Lowlands,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Central Lowlands,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Central Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Central Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Central Lowlands,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Central Lowlands,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Central Lowlands,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Central Lowlands,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Central Lowlands,EVA Report,1,In Space Low,56.0,56.0
+Moho,Central Lowlands,EVA Report,1,In Space Low,64.0,64.0
 Moho,Central Lowlands,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Western Lowlands,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Western Lowlands,Materials Study,2,Surface: Landed,250.0,320.0
@@ -361,12 +444,12 @@ Moho,Western Lowlands,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Western Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Western Lowlands,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Western Lowlands,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Western Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Western Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Western Lowlands,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Western Lowlands,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Western Lowlands,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Western Lowlands,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Western Lowlands,EVA Report,1,In Space Low,56.0,56.0
+Moho,Western Lowlands,EVA Report,1,In Space Low,64.0,64.0
 Moho,Western Lowlands,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,South Western Lowlands,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,South Western Lowlands,Materials Study,2,Surface: Landed,250.0,320.0
@@ -374,12 +457,12 @@ Moho,South Western Lowlands,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,South Western Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,South Western Lowlands,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,South Western Lowlands,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,South Western Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,South Western Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,South Western Lowlands,Gravity Scan,8,In Space High,140.0,154.0
 Moho,South Western Lowlands,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,South Western Lowlands,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,South Western Lowlands,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,South Western Lowlands,EVA Report,1,In Space Low,56.0,56.0
+Moho,South Western Lowlands,EVA Report,1,In Space Low,64.0,64.0
 Moho,South Western Lowlands,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,South Eastern Lowlands,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,South Eastern Lowlands,Materials Study,2,Surface: Landed,250.0,320.0
@@ -387,12 +470,12 @@ Moho,South Eastern Lowlands,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,South Eastern Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,South Eastern Lowlands,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,South Eastern Lowlands,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,South Eastern Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,South Eastern Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,South Eastern Lowlands,Gravity Scan,8,In Space High,140.0,154.0
 Moho,South Eastern Lowlands,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,South Eastern Lowlands,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,South Eastern Lowlands,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,South Eastern Lowlands,EVA Report,1,In Space Low,56.0,56.0
+Moho,South Eastern Lowlands,EVA Report,1,In Space Low,64.0,64.0
 Moho,South Eastern Lowlands,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,Canyon,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,Canyon,Materials Study,2,Surface: Landed,250.0,320.0
@@ -400,12 +483,12 @@ Moho,Canyon,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,Canyon,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,Canyon,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,Canyon,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,Canyon,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,Canyon,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,Canyon,Gravity Scan,8,In Space High,140.0,154.0
 Moho,Canyon,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,Canyon,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,Canyon,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,Canyon,EVA Report,1,In Space Low,56.0,56.0
+Moho,Canyon,EVA Report,1,In Space Low,64.0,64.0
 Moho,Canyon,Surface Sample,1,Surface: Landed,300.0,400.0
 Moho,South Pole,Mystery Goo Observation,1,Surface: Landed,100.0,130.0
 Moho,South Pole,Materials Study,2,Surface: Landed,250.0,320.0
@@ -413,12 +496,12 @@ Moho,South Pole,Temperature Scan,4,Surface: Landed,80.0,80.0
 Moho,South Pole,Atmospheric Pressure Scan,5,Surface: Landed,120.0,120.0
 Moho,South Pole,Seismic Scan,7,Surface: Landed,200.0,220.0
 Moho,South Pole,Gravity Scan,8,Surface: Landed,200.0,220.0
-Moho,South Pole,Gravity Scan,8,In Space Low,140.0,154.0
+Moho,South Pole,Gravity Scan,8,In Space Low,160.0,176.0
 Moho,South Pole,Gravity Scan,8,In Space High,140.0,154.0
 Moho,South Pole,Atmosphere Analysis,7,Surface: Landed,200.0,240.0
 Moho,South Pole,Crew Report,1,Surface: Landed,50.0,50.0
 Moho,South Pole,EVA Report,1,Surface: Landed,80.0,80.0
-Moho,South Pole,EVA Report,1,In Space Low,56.0,56.0
+Moho,South Pole,EVA Report,1,In Space Low,64.0,64.0
 Moho,South Pole,Surface Sample,1,Surface: Landed,300.0,400.0
 Eve,Poles,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Poles,Materials Study,2,Surface: Landed,200.0,256.0
@@ -427,7 +510,7 @@ Eve,Poles,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Poles,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Poles,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Poles,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Poles,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Poles,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Poles,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Poles,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Poles,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -436,7 +519,7 @@ Eve,Poles,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Poles,Crew Report,1,Flying Low,30.0,30.0
 Eve,Poles,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Poles,EVA Report,1,Flying Low,48.0,48.0
-Eve,Poles,EVA Report,1,In Space Low,40.0,40.0
+Eve,Poles,EVA Report,1,In Space Low,56.0,56.0
 Eve,Poles,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Lowlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Lowlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -445,7 +528,7 @@ Eve,Lowlands,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Lowlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Lowlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Lowlands,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Lowlands,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Lowlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Lowlands,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -454,7 +537,7 @@ Eve,Lowlands,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Lowlands,Crew Report,1,Flying Low,30.0,30.0
 Eve,Lowlands,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Lowlands,EVA Report,1,Flying Low,48.0,48.0
-Eve,Lowlands,EVA Report,1,In Space Low,40.0,40.0
+Eve,Lowlands,EVA Report,1,In Space Low,56.0,56.0
 Eve,Lowlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Midlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Midlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -463,7 +546,7 @@ Eve,Midlands,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Midlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Midlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Midlands,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Midlands,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Midlands,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Midlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Midlands,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -472,7 +555,7 @@ Eve,Midlands,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Midlands,Crew Report,1,Flying Low,30.0,30.0
 Eve,Midlands,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Midlands,EVA Report,1,Flying Low,48.0,48.0
-Eve,Midlands,EVA Report,1,In Space Low,40.0,40.0
+Eve,Midlands,EVA Report,1,In Space Low,56.0,56.0
 Eve,Midlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Highlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Highlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -481,7 +564,7 @@ Eve,Highlands,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Highlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Highlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Highlands,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Highlands,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Highlands,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Highlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Highlands,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -490,7 +573,7 @@ Eve,Highlands,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Highlands,Crew Report,1,Flying Low,30.0,30.0
 Eve,Highlands,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Highlands,EVA Report,1,Flying Low,48.0,48.0
-Eve,Highlands,EVA Report,1,In Space Low,40.0,40.0
+Eve,Highlands,EVA Report,1,In Space Low,56.0,56.0
 Eve,Highlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Foothills,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Foothills,Materials Study,2,Surface: Landed,200.0,256.0
@@ -499,7 +582,7 @@ Eve,Foothills,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Foothills,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Foothills,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Foothills,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Foothills,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Foothills,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Foothills,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Foothills,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Foothills,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -508,7 +591,7 @@ Eve,Foothills,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Foothills,Crew Report,1,Flying Low,30.0,30.0
 Eve,Foothills,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Foothills,EVA Report,1,Flying Low,48.0,48.0
-Eve,Foothills,EVA Report,1,In Space Low,40.0,40.0
+Eve,Foothills,EVA Report,1,In Space Low,56.0,56.0
 Eve,Foothills,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Peaks,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Peaks,Materials Study,2,Surface: Landed,200.0,256.0
@@ -517,7 +600,7 @@ Eve,Peaks,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Peaks,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Peaks,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Peaks,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Peaks,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Peaks,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Peaks,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Peaks,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Peaks,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -526,7 +609,7 @@ Eve,Peaks,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Peaks,Crew Report,1,Flying Low,30.0,30.0
 Eve,Peaks,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Peaks,EVA Report,1,Flying Low,48.0,48.0
-Eve,Peaks,EVA Report,1,In Space Low,40.0,40.0
+Eve,Peaks,EVA Report,1,In Space Low,56.0,56.0
 Eve,Peaks,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Impact Ejecta,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Impact Ejecta,Materials Study,2,Surface: Landed,200.0,256.0
@@ -535,7 +618,7 @@ Eve,Impact Ejecta,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Impact Ejecta,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Impact Ejecta,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Impact Ejecta,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Impact Ejecta,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Impact Ejecta,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Impact Ejecta,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Impact Ejecta,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Impact Ejecta,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -544,7 +627,7 @@ Eve,Impact Ejecta,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Impact Ejecta,Crew Report,1,Flying Low,30.0,30.0
 Eve,Impact Ejecta,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Impact Ejecta,EVA Report,1,Flying Low,48.0,48.0
-Eve,Impact Ejecta,EVA Report,1,In Space Low,40.0,40.0
+Eve,Impact Ejecta,EVA Report,1,In Space Low,56.0,56.0
 Eve,Impact Ejecta,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Explodium Sea,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Explodium Sea,Materials Study,2,Surface: Landed,200.0,256.0
@@ -553,7 +636,7 @@ Eve,Explodium Sea,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Explodium Sea,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Explodium Sea,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Explodium Sea,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Explodium Sea,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Explodium Sea,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Explodium Sea,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Explodium Sea,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Explodium Sea,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -562,7 +645,7 @@ Eve,Explodium Sea,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Explodium Sea,Crew Report,1,Flying Low,30.0,30.0
 Eve,Explodium Sea,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Explodium Sea,EVA Report,1,Flying Low,48.0,48.0
-Eve,Explodium Sea,EVA Report,1,In Space Low,40.0,40.0
+Eve,Explodium Sea,EVA Report,1,In Space Low,56.0,56.0
 Eve,Explodium Sea,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Akatsuki Lake,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Akatsuki Lake,Materials Study,2,Surface: Landed,200.0,256.0
@@ -571,7 +654,7 @@ Eve,Akatsuki Lake,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Akatsuki Lake,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Akatsuki Lake,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Akatsuki Lake,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Akatsuki Lake,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Akatsuki Lake,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Akatsuki Lake,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Akatsuki Lake,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Akatsuki Lake,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -580,7 +663,7 @@ Eve,Akatsuki Lake,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Akatsuki Lake,Crew Report,1,Flying Low,30.0,30.0
 Eve,Akatsuki Lake,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Akatsuki Lake,EVA Report,1,Flying Low,48.0,48.0
-Eve,Akatsuki Lake,EVA Report,1,In Space Low,40.0,40.0
+Eve,Akatsuki Lake,EVA Report,1,In Space Low,56.0,56.0
 Eve,Akatsuki Lake,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Shallows,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Shallows,Materials Study,2,Surface: Landed,200.0,256.0
@@ -589,7 +672,7 @@ Eve,Shallows,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Shallows,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Shallows,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Shallows,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Shallows,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Shallows,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Shallows,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Shallows,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Shallows,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -598,7 +681,7 @@ Eve,Shallows,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Shallows,Crew Report,1,Flying Low,30.0,30.0
 Eve,Shallows,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Shallows,EVA Report,1,Flying Low,48.0,48.0
-Eve,Shallows,EVA Report,1,In Space Low,40.0,40.0
+Eve,Shallows,EVA Report,1,In Space Low,56.0,56.0
 Eve,Shallows,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Crater Lake,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Crater Lake,Materials Study,2,Surface: Landed,200.0,256.0
@@ -607,7 +690,7 @@ Eve,Crater Lake,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Crater Lake,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Crater Lake,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Crater Lake,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Crater Lake,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Crater Lake,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Crater Lake,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Crater Lake,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Crater Lake,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -616,7 +699,7 @@ Eve,Crater Lake,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Crater Lake,Crew Report,1,Flying Low,30.0,30.0
 Eve,Crater Lake,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Crater Lake,EVA Report,1,Flying Low,48.0,48.0
-Eve,Crater Lake,EVA Report,1,In Space Low,40.0,40.0
+Eve,Crater Lake,EVA Report,1,In Space Low,56.0,56.0
 Eve,Crater Lake,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Western Sea,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Western Sea,Materials Study,2,Surface: Landed,200.0,256.0
@@ -625,7 +708,7 @@ Eve,Western Sea,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Western Sea,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Western Sea,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Western Sea,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Western Sea,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Western Sea,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Western Sea,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Western Sea,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Western Sea,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -634,7 +717,7 @@ Eve,Western Sea,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Western Sea,Crew Report,1,Flying Low,30.0,30.0
 Eve,Western Sea,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Western Sea,EVA Report,1,Flying Low,48.0,48.0
-Eve,Western Sea,EVA Report,1,In Space Low,40.0,40.0
+Eve,Western Sea,EVA Report,1,In Space Low,56.0,56.0
 Eve,Western Sea,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Olympus,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Olympus,Materials Study,2,Surface: Landed,200.0,256.0
@@ -643,7 +726,7 @@ Eve,Olympus,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Olympus,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Olympus,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Olympus,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Olympus,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Olympus,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Olympus,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Olympus,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Olympus,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -652,7 +735,7 @@ Eve,Olympus,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Olympus,Crew Report,1,Flying Low,30.0,30.0
 Eve,Olympus,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Olympus,EVA Report,1,Flying Low,48.0,48.0
-Eve,Olympus,EVA Report,1,In Space Low,40.0,40.0
+Eve,Olympus,EVA Report,1,In Space Low,56.0,56.0
 Eve,Olympus,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Craters,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Craters,Materials Study,2,Surface: Landed,200.0,256.0
@@ -661,7 +744,7 @@ Eve,Craters,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Craters,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Craters,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Craters,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Craters,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Craters,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Craters,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Craters,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Craters,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -670,7 +753,7 @@ Eve,Craters,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Craters,Crew Report,1,Flying Low,30.0,30.0
 Eve,Craters,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Craters,EVA Report,1,Flying Low,48.0,48.0
-Eve,Craters,EVA Report,1,In Space Low,40.0,40.0
+Eve,Craters,EVA Report,1,In Space Low,56.0,56.0
 Eve,Craters,Surface Sample,1,Surface: Landed,240.0,320.0
 Eve,Eastern Sea,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Eve,Eastern Sea,Materials Study,2,Surface: Landed,200.0,256.0
@@ -679,7 +762,7 @@ Eve,Eastern Sea,Temperature Scan,4,Flying Low,48.0,48.0
 Eve,Eastern Sea,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Eve,Eastern Sea,Seismic Scan,7,Surface: Landed,160.0,176.0
 Eve,Eastern Sea,Gravity Scan,8,Surface: Landed,160.0,176.0
-Eve,Eastern Sea,Gravity Scan,8,In Space Low,100.0,110.0
+Eve,Eastern Sea,Gravity Scan,8,In Space Low,140.0,154.0
 Eve,Eastern Sea,Gravity Scan,8,In Space High,100.0,110.0
 Eve,Eastern Sea,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Eve,Eastern Sea,Atmosphere Analysis,7,Flying Low,120.0,144.0
@@ -688,7 +771,7 @@ Eve,Eastern Sea,Crew Report,1,Surface: Landed,40.0,40.0
 Eve,Eastern Sea,Crew Report,1,Flying Low,30.0,30.0
 Eve,Eastern Sea,EVA Report,1,Surface: Landed,64.0,64.0
 Eve,Eastern Sea,EVA Report,1,Flying Low,48.0,48.0
-Eve,Eastern Sea,EVA Report,1,In Space Low,40.0,40.0
+Eve,Eastern Sea,EVA Report,1,In Space Low,56.0,56.0
 Eve,Eastern Sea,Surface Sample,1,Surface: Landed,240.0,320.0
 Gilly,Lowlands,Mystery Goo Observation,1,Surface: Landed,90.0,117.0
 Gilly,Lowlands,Materials Study,2,Surface: Landed,225.0,288.0
@@ -696,12 +779,12 @@ Gilly,Lowlands,Temperature Scan,4,Surface: Landed,72.0,72.0
 Gilly,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,108.0,108.0
 Gilly,Lowlands,Seismic Scan,7,Surface: Landed,180.0,198.0
 Gilly,Lowlands,Gravity Scan,8,Surface: Landed,180.0,198.0
-Gilly,Lowlands,Gravity Scan,8,In Space Low,120.0,132.0
+Gilly,Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
 Gilly,Lowlands,Gravity Scan,8,In Space High,120.0,132.0
 Gilly,Lowlands,Atmosphere Analysis,7,Surface: Landed,180.0,216.0
 Gilly,Lowlands,Crew Report,1,Surface: Landed,45.0,45.0
 Gilly,Lowlands,EVA Report,1,Surface: Landed,72.0,72.0
-Gilly,Lowlands,EVA Report,1,In Space Low,48.0,48.0
+Gilly,Lowlands,EVA Report,1,In Space Low,64.0,64.0
 Gilly,Lowlands,Surface Sample,1,Surface: Landed,270.0,360.0
 Gilly,Midlands,Mystery Goo Observation,1,Surface: Landed,90.0,117.0
 Gilly,Midlands,Materials Study,2,Surface: Landed,225.0,288.0
@@ -709,12 +792,12 @@ Gilly,Midlands,Temperature Scan,4,Surface: Landed,72.0,72.0
 Gilly,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,108.0,108.0
 Gilly,Midlands,Seismic Scan,7,Surface: Landed,180.0,198.0
 Gilly,Midlands,Gravity Scan,8,Surface: Landed,180.0,198.0
-Gilly,Midlands,Gravity Scan,8,In Space Low,120.0,132.0
+Gilly,Midlands,Gravity Scan,8,In Space Low,160.0,176.0
 Gilly,Midlands,Gravity Scan,8,In Space High,120.0,132.0
 Gilly,Midlands,Atmosphere Analysis,7,Surface: Landed,180.0,216.0
 Gilly,Midlands,Crew Report,1,Surface: Landed,45.0,45.0
 Gilly,Midlands,EVA Report,1,Surface: Landed,72.0,72.0
-Gilly,Midlands,EVA Report,1,In Space Low,48.0,48.0
+Gilly,Midlands,EVA Report,1,In Space Low,64.0,64.0
 Gilly,Midlands,Surface Sample,1,Surface: Landed,270.0,360.0
 Gilly,Highlands,Mystery Goo Observation,1,Surface: Landed,90.0,117.0
 Gilly,Highlands,Materials Study,2,Surface: Landed,225.0,288.0
@@ -722,12 +805,12 @@ Gilly,Highlands,Temperature Scan,4,Surface: Landed,72.0,72.0
 Gilly,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,108.0,108.0
 Gilly,Highlands,Seismic Scan,7,Surface: Landed,180.0,198.0
 Gilly,Highlands,Gravity Scan,8,Surface: Landed,180.0,198.0
-Gilly,Highlands,Gravity Scan,8,In Space Low,120.0,132.0
+Gilly,Highlands,Gravity Scan,8,In Space Low,160.0,176.0
 Gilly,Highlands,Gravity Scan,8,In Space High,120.0,132.0
 Gilly,Highlands,Atmosphere Analysis,7,Surface: Landed,180.0,216.0
 Gilly,Highlands,Crew Report,1,Surface: Landed,45.0,45.0
 Gilly,Highlands,EVA Report,1,Surface: Landed,72.0,72.0
-Gilly,Highlands,EVA Report,1,In Space Low,48.0,48.0
+Gilly,Highlands,EVA Report,1,In Space Low,64.0,64.0
 Gilly,Highlands,Surface Sample,1,Surface: Landed,270.0,360.0
 Kerbin,Ice Caps,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Ice Caps,Materials Study,2,Surface: Landed,7.5,9.6
@@ -736,7 +819,7 @@ Kerbin,Ice Caps,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Ice Caps,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Ice Caps,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Ice Caps,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Ice Caps,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Ice Caps,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Ice Caps,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Ice Caps,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Ice Caps,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -745,7 +828,7 @@ Kerbin,Ice Caps,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Ice Caps,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Ice Caps,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Ice Caps,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Ice Caps,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Ice Caps,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Ice Caps,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Northern Ice Shelf,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Northern Ice Shelf,Materials Study,2,Surface: Landed,7.5,9.6
@@ -754,7 +837,7 @@ Kerbin,Northern Ice Shelf,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Northern Ice Shelf,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Northern Ice Shelf,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Northern Ice Shelf,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Northern Ice Shelf,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Northern Ice Shelf,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Northern Ice Shelf,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Northern Ice Shelf,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Northern Ice Shelf,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -763,7 +846,7 @@ Kerbin,Northern Ice Shelf,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Northern Ice Shelf,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Northern Ice Shelf,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Northern Ice Shelf,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Northern Ice Shelf,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Northern Ice Shelf,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Northern Ice Shelf,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Southern Ice Shelf,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Southern Ice Shelf,Materials Study,2,Surface: Landed,7.5,9.6
@@ -772,7 +855,7 @@ Kerbin,Southern Ice Shelf,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Southern Ice Shelf,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Southern Ice Shelf,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Southern Ice Shelf,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Southern Ice Shelf,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Southern Ice Shelf,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Southern Ice Shelf,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Southern Ice Shelf,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Southern Ice Shelf,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -781,7 +864,7 @@ Kerbin,Southern Ice Shelf,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Southern Ice Shelf,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Southern Ice Shelf,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Southern Ice Shelf,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Southern Ice Shelf,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Southern Ice Shelf,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Southern Ice Shelf,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Tundra,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Tundra,Materials Study,2,Surface: Landed,7.5,9.6
@@ -790,7 +873,7 @@ Kerbin,Tundra,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Tundra,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Tundra,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Tundra,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Tundra,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Tundra,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Tundra,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Tundra,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Tundra,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -799,7 +882,7 @@ Kerbin,Tundra,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Tundra,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Tundra,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Tundra,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Tundra,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Tundra,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Tundra,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Highlands,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Highlands,Materials Study,2,Surface: Landed,7.5,9.6
@@ -808,7 +891,7 @@ Kerbin,Highlands,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Highlands,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Highlands,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Highlands,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Highlands,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Highlands,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Highlands,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Highlands,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -817,7 +900,7 @@ Kerbin,Highlands,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Highlands,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Highlands,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Highlands,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Highlands,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Highlands,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Highlands,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Mountains,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Mountains,Materials Study,2,Surface: Landed,7.5,9.6
@@ -826,7 +909,7 @@ Kerbin,Mountains,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Mountains,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Mountains,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Mountains,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Mountains,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Mountains,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Mountains,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Mountains,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Mountains,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -835,7 +918,7 @@ Kerbin,Mountains,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Mountains,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Mountains,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Mountains,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Mountains,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Mountains,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Mountains,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Grasslands,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Grasslands,Materials Study,2,Surface: Landed,7.5,9.6
@@ -844,7 +927,7 @@ Kerbin,Grasslands,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Grasslands,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Grasslands,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Grasslands,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Grasslands,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Grasslands,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Grasslands,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Grasslands,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Grasslands,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -853,7 +936,7 @@ Kerbin,Grasslands,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Grasslands,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Grasslands,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Grasslands,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Grasslands,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Grasslands,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Grasslands,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Deserts,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Deserts,Materials Study,2,Surface: Landed,7.5,9.6
@@ -862,7 +945,7 @@ Kerbin,Deserts,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Deserts,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Deserts,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Deserts,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Deserts,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Deserts,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Deserts,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Deserts,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Deserts,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -871,7 +954,7 @@ Kerbin,Deserts,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Deserts,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Deserts,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Deserts,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Deserts,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Deserts,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Deserts,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Badlands,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Badlands,Materials Study,2,Surface: Landed,7.5,9.6
@@ -880,7 +963,7 @@ Kerbin,Badlands,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Badlands,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
 Kerbin,Badlands,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Badlands,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Badlands,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Badlands,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Badlands,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Badlands,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Badlands,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
@@ -889,33 +972,41 @@ Kerbin,Badlands,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Badlands,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Badlands,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Badlands,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Badlands,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Badlands,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Badlands,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Shores,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,Shores,Mystery Goo Observation,1,Surface: Splashed,4.0,5.2
 Kerbin,Shores,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,Shores,Materials Study,2,Surface: Splashed,10.0,12.8
 Kerbin,Shores,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,Shores,Temperature Scan,4,Surface: Splashed,3.2,3.2
 Kerbin,Shores,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Shores,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,Shores,Atmospheric Pressure Scan,5,Surface: Splashed,4.800000000000001,4.800000000000001
 Kerbin,Shores,Seismic Scan,7,Surface: Landed,6.0,6.6
 Kerbin,Shores,Gravity Scan,8,Surface: Landed,6.0,6.6
-Kerbin,Shores,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Shores,Gravity Scan,8,Surface: Splashed,8.0,8.8
+Kerbin,Shores,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Shores,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Shores,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,Shores,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
 Kerbin,Shores,Atmosphere Analysis,7,Flying High,18.0,21.6
 Kerbin,Shores,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,Shores,Crew Report,1,Surface: Splashed,2.0,2.0
 Kerbin,Shores,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Shores,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,Shores,EVA Report,1,Surface: Splashed,3.2,3.2
 Kerbin,Shores,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Shores,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Shores,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Shores,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,Shores,Surface Sample,1,Surface: Splashed,12.0,16.0
 Kerbin,Water,Mystery Goo Observation,1,Surface: Splashed,4.0,5.2
 Kerbin,Water,Materials Study,2,Surface: Splashed,10.0,12.8
 Kerbin,Water,Temperature Scan,4,Surface: Splashed,3.2,3.2
 Kerbin,Water,Temperature Scan,4,Flying Low,5.6,5.6
 Kerbin,Water,Atmospheric Pressure Scan,5,Surface: Splashed,4.800000000000001,4.800000000000001
 Kerbin,Water,Gravity Scan,8,Surface: Splashed,8.0,8.8
-Kerbin,Water,Gravity Scan,8,In Space Low,30.0,33.0
+Kerbin,Water,Gravity Scan,8,In Space Low,20.0,22.0
 Kerbin,Water,Gravity Scan,8,In Space High,30.0,33.0
 Kerbin,Water,Atmosphere Analysis,7,Flying Low,14.0,16.799999999999997
 Kerbin,Water,Atmosphere Analysis,7,Flying High,18.0,21.6
@@ -923,8 +1014,18 @@ Kerbin,Water,Crew Report,1,Surface: Splashed,2.0,2.0
 Kerbin,Water,Crew Report,1,Flying Low,3.5,3.5
 Kerbin,Water,EVA Report,1,Surface: Splashed,3.2,3.2
 Kerbin,Water,EVA Report,1,Flying Low,5.6,5.6
-Kerbin,Water,EVA Report,1,In Space Low,12.0,12.0
+Kerbin,Water,EVA Report,1,In Space Low,8.0,8.0
 Kerbin,Water,Surface Sample,1,Surface: Splashed,12.0,16.0
+Kerbin,KSC,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,KSC,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,KSC,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,KSC,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,KSC,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,KSC,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,KSC,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,KSC,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,KSC,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,KSC,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Administration,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Administration,Materials Study,2,Surface: Landed,7.5,9.6
 Kerbin,Administration,Temperature Scan,4,Surface: Landed,2.4,2.4
@@ -995,6 +1096,86 @@ Kerbin,R&D,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,R&D,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,R&D,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,R&D,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Central Building,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Central Building,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Central Building,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Central Building,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Central Building,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Central Building,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Central Building,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Central Building,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Central Building,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Central Building,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Corner Lab,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Corner Lab,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Corner Lab,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Corner Lab,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Corner Lab,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Corner Lab,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Corner Lab,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Corner Lab,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Corner Lab,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Corner Lab,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Main Building,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Main Building,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Main Building,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Main Building,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Main Building,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Main Building,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Main Building,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Main Building,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Main Building,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Main Building,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Observatory,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Observatory,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Observatory,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Observatory,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Observatory,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Observatory,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Observatory,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Observatory,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Observatory,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Observatory,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Side Lab,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Side Lab,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Side Lab,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Side Lab,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Side Lab,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Side Lab,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Side Lab,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Side Lab,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Side Lab,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Side Lab,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Small Lab,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Small Lab,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Small Lab,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Small Lab,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Small Lab,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Small Lab,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Small Lab,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Small Lab,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Small Lab,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Small Lab,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Tanks,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Tanks,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Tanks,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Tanks,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Tanks,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Tanks,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Tanks,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Tanks,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Tanks,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Tanks,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,R&D Wind Tunnel,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,R&D Wind Tunnel,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,R&D Wind Tunnel,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,R&D Wind Tunnel,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,R&D Wind Tunnel,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,R&D Wind Tunnel,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,R&D Wind Tunnel,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,R&D Wind Tunnel,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,R&D Wind Tunnel,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,R&D Wind Tunnel,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Runway,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Runway,Materials Study,2,Surface: Landed,7.5,9.6
 Kerbin,Runway,Temperature Scan,4,Surface: Landed,2.4,2.4
@@ -1015,6 +1196,46 @@ Kerbin,SPH,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,SPH,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,SPH,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,SPH,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,SPH Main Building,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,SPH Main Building,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,SPH Main Building,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,SPH Main Building,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,SPH Main Building,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,SPH Main Building,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,SPH Main Building,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,SPH Main Building,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,SPH Main Building,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,SPH Main Building,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,SPH Round Tank,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,SPH Round Tank,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,SPH Round Tank,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,SPH Round Tank,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,SPH Round Tank,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,SPH Round Tank,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,SPH Round Tank,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,SPH Round Tank,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,SPH Round Tank,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,SPH Round Tank,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,SPH Tanks,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,SPH Tanks,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,SPH Tanks,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,SPH Tanks,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,SPH Tanks,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,SPH Tanks,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,SPH Tanks,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,SPH Tanks,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,SPH Tanks,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,SPH Tanks,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,SPH Water Tower,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,SPH Water Tower,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,SPH Water Tower,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,SPH Water Tower,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,SPH Water Tower,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,SPH Water Tower,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,SPH Water Tower,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,SPH Water Tower,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,SPH Water Tower,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,SPH Water Tower,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,Tracking Station,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,Tracking Station,Materials Study,2,Surface: Landed,7.5,9.6
 Kerbin,Tracking Station,Temperature Scan,4,Surface: Landed,2.4,2.4
@@ -1025,6 +1246,46 @@ Kerbin,Tracking Station,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999
 Kerbin,Tracking Station,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,Tracking Station,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,Tracking Station,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,Tracking Station Dish East,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,Tracking Station Dish East,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,Tracking Station Dish East,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Dish East,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,Tracking Station Dish East,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Dish East,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Dish East,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,Tracking Station Dish East,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,Tracking Station Dish East,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Dish East,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,Tracking Station Dish North,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,Tracking Station Dish North,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,Tracking Station Dish North,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Dish North,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,Tracking Station Dish North,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Dish North,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Dish North,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,Tracking Station Dish North,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,Tracking Station Dish North,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Dish North,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,Tracking Station Dish South,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,Tracking Station Dish South,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,Tracking Station Dish South,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Dish South,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,Tracking Station Dish South,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Dish South,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Dish South,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,Tracking Station Dish South,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,Tracking Station Dish South,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Dish South,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,Tracking Station Hub,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,Tracking Station Hub,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,Tracking Station Hub,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Hub,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,Tracking Station Hub,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Hub,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,Tracking Station Hub,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,Tracking Station Hub,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,Tracking Station Hub,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,Tracking Station Hub,Surface Sample,1,Surface: Landed,9.0,12.0
 Kerbin,VAB,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
 Kerbin,VAB,Materials Study,2,Surface: Landed,7.5,9.6
 Kerbin,VAB,Temperature Scan,4,Surface: Landed,2.4,2.4
@@ -1035,18 +1296,68 @@ Kerbin,VAB,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
 Kerbin,VAB,Crew Report,1,Surface: Landed,1.5,1.5
 Kerbin,VAB,EVA Report,1,Surface: Landed,2.4,2.4
 Kerbin,VAB,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,VAB Main Building,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,VAB Main Building,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,VAB Main Building,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,VAB Main Building,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,VAB Main Building,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,VAB Main Building,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,VAB Main Building,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,VAB Main Building,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,VAB Main Building,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,VAB Main Building,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,VAB Pod Memorial,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,VAB Pod Memorial,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,VAB Pod Memorial,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,VAB Pod Memorial,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,VAB Pod Memorial,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,VAB Pod Memorial,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,VAB Pod Memorial,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,VAB Pod Memorial,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,VAB Pod Memorial,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,VAB Pod Memorial,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,VAB Round Tank,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,VAB Round Tank,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,VAB Round Tank,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,VAB Round Tank,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,VAB Round Tank,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,VAB Round Tank,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,VAB Round Tank,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,VAB Round Tank,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,VAB Round Tank,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,VAB Round Tank,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,VAB South Complex,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,VAB South Complex,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,VAB South Complex,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,VAB South Complex,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,VAB South Complex,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,VAB South Complex,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,VAB South Complex,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,VAB South Complex,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,VAB South Complex,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,VAB South Complex,Surface Sample,1,Surface: Landed,9.0,12.0
+Kerbin,VAB Tanks,Mystery Goo Observation,1,Surface: Landed,3.0,3.9
+Kerbin,VAB Tanks,Materials Study,2,Surface: Landed,7.5,9.6
+Kerbin,VAB Tanks,Temperature Scan,4,Surface: Landed,2.4,2.4
+Kerbin,VAB Tanks,Atmospheric Pressure Scan,5,Surface: Landed,3.5999999999999996,3.5999999999999996
+Kerbin,VAB Tanks,Seismic Scan,7,Surface: Landed,6.0,6.6
+Kerbin,VAB Tanks,Gravity Scan,8,Surface: Landed,6.0,6.6
+Kerbin,VAB Tanks,Atmosphere Analysis,7,Surface: Landed,6.0,7.199999999999999
+Kerbin,VAB Tanks,Crew Report,1,Surface: Landed,1.5,1.5
+Kerbin,VAB Tanks,EVA Report,1,Surface: Landed,2.4,2.4
+Kerbin,VAB Tanks,Surface Sample,1,Surface: Landed,9.0,12.0
 Mun,Poles,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Poles,Materials Study,2,Surface: Landed,100.0,128.0
 Mun,Poles,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Poles,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Poles,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Poles,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Poles,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Poles,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Poles,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Poles,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Poles,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Poles,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Poles,EVA Report,1,In Space Low,16.0,16.0
+Mun,Poles,EVA Report,1,In Space Low,24.0,24.0
 Mun,Poles,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Polar Lowlands,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Polar Lowlands,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1054,12 +1365,12 @@ Mun,Polar Lowlands,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Polar Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Polar Lowlands,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Polar Lowlands,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Polar Lowlands,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Polar Lowlands,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Polar Lowlands,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Polar Lowlands,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Polar Lowlands,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Polar Lowlands,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Polar Lowlands,EVA Report,1,In Space Low,16.0,16.0
+Mun,Polar Lowlands,EVA Report,1,In Space Low,24.0,24.0
 Mun,Polar Lowlands,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Polar Crater,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Polar Crater,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1067,12 +1378,12 @@ Mun,Polar Crater,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Polar Crater,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Polar Crater,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Polar Crater,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Polar Crater,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Polar Crater,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Polar Crater,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Polar Crater,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Polar Crater,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Polar Crater,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Polar Crater,EVA Report,1,In Space Low,16.0,16.0
+Mun,Polar Crater,EVA Report,1,In Space Low,24.0,24.0
 Mun,Polar Crater,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Highlands,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Highlands,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1080,12 +1391,12 @@ Mun,Highlands,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Highlands,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Highlands,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Highlands,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Highlands,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Highlands,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Highlands,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Highlands,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Highlands,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Highlands,EVA Report,1,In Space Low,16.0,16.0
+Mun,Highlands,EVA Report,1,In Space Low,24.0,24.0
 Mun,Highlands,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Highland Craters,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Highland Craters,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1093,12 +1404,12 @@ Mun,Highland Craters,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Highland Craters,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Highland Craters,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Highland Craters,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Highland Craters,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Highland Craters,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Highland Craters,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Highland Craters,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Highland Craters,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Highland Craters,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Highland Craters,EVA Report,1,In Space Low,16.0,16.0
+Mun,Highland Craters,EVA Report,1,In Space Low,24.0,24.0
 Mun,Highland Craters,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Midlands,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Midlands,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1106,12 +1417,12 @@ Mun,Midlands,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Midlands,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Midlands,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Midlands,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Midlands,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Midlands,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Midlands,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Midlands,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Midlands,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Midlands,EVA Report,1,In Space Low,16.0,16.0
+Mun,Midlands,EVA Report,1,In Space Low,24.0,24.0
 Mun,Midlands,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Midland Craters,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Midland Craters,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1119,12 +1430,12 @@ Mun,Midland Craters,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Midland Craters,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Midland Craters,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Midland Craters,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Midland Craters,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Midland Craters,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Midland Craters,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Midland Craters,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Midland Craters,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Midland Craters,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Midland Craters,EVA Report,1,In Space Low,16.0,16.0
+Mun,Midland Craters,EVA Report,1,In Space Low,24.0,24.0
 Mun,Midland Craters,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Lowlands,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Lowlands,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1132,12 +1443,12 @@ Mun,Lowlands,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Lowlands,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Lowlands,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Lowlands,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Lowlands,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Lowlands,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Lowlands,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Lowlands,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Lowlands,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Lowlands,EVA Report,1,In Space Low,16.0,16.0
+Mun,Lowlands,EVA Report,1,In Space Low,24.0,24.0
 Mun,Lowlands,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Northern Basin,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Northern Basin,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1145,12 +1456,12 @@ Mun,Northern Basin,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Northern Basin,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Northern Basin,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Northern Basin,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Northern Basin,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Northern Basin,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Northern Basin,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Northern Basin,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Northern Basin,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Northern Basin,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Northern Basin,EVA Report,1,In Space Low,16.0,16.0
+Mun,Northern Basin,EVA Report,1,In Space Low,24.0,24.0
 Mun,Northern Basin,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Farside Basin,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Farside Basin,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1158,12 +1469,12 @@ Mun,Farside Basin,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Farside Basin,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Farside Basin,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Farside Basin,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Farside Basin,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Farside Basin,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Farside Basin,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Farside Basin,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Farside Basin,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Farside Basin,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Farside Basin,EVA Report,1,In Space Low,16.0,16.0
+Mun,Farside Basin,EVA Report,1,In Space Low,24.0,24.0
 Mun,Farside Basin,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Northwest Crater,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Northwest Crater,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1171,12 +1482,12 @@ Mun,Northwest Crater,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Northwest Crater,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Northwest Crater,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Northwest Crater,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Northwest Crater,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Northwest Crater,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Northwest Crater,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Northwest Crater,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Northwest Crater,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Northwest Crater,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Northwest Crater,EVA Report,1,In Space Low,16.0,16.0
+Mun,Northwest Crater,EVA Report,1,In Space Low,24.0,24.0
 Mun,Northwest Crater,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,East Farside Crater,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,East Farside Crater,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1184,12 +1495,12 @@ Mun,East Farside Crater,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,East Farside Crater,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,East Farside Crater,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,East Farside Crater,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,East Farside Crater,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,East Farside Crater,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,East Farside Crater,Gravity Scan,8,In Space High,40.0,44.0
 Mun,East Farside Crater,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,East Farside Crater,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,East Farside Crater,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,East Farside Crater,EVA Report,1,In Space Low,16.0,16.0
+Mun,East Farside Crater,EVA Report,1,In Space Low,24.0,24.0
 Mun,East Farside Crater,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Canyons,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Canyons,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1197,12 +1508,12 @@ Mun,Canyons,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Canyons,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Canyons,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Canyons,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Canyons,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Canyons,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Canyons,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Canyons,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Canyons,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Canyons,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Canyons,EVA Report,1,In Space Low,16.0,16.0
+Mun,Canyons,EVA Report,1,In Space Low,24.0,24.0
 Mun,Canyons,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Farside Crater,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Farside Crater,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1210,12 +1521,12 @@ Mun,Farside Crater,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Farside Crater,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Farside Crater,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Farside Crater,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Farside Crater,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Farside Crater,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Farside Crater,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Farside Crater,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Farside Crater,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Farside Crater,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Farside Crater,EVA Report,1,In Space Low,16.0,16.0
+Mun,Farside Crater,EVA Report,1,In Space Low,24.0,24.0
 Mun,Farside Crater,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,East Crater,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,East Crater,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1223,12 +1534,12 @@ Mun,East Crater,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,East Crater,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,East Crater,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,East Crater,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,East Crater,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,East Crater,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,East Crater,Gravity Scan,8,In Space High,40.0,44.0
 Mun,East Crater,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,East Crater,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,East Crater,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,East Crater,EVA Report,1,In Space Low,16.0,16.0
+Mun,East Crater,EVA Report,1,In Space Low,24.0,24.0
 Mun,East Crater,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Twin Craters,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Twin Craters,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1236,12 +1547,12 @@ Mun,Twin Craters,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Twin Craters,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Twin Craters,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Twin Craters,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Twin Craters,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Twin Craters,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Twin Craters,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Twin Craters,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Twin Craters,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Twin Craters,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Twin Craters,EVA Report,1,In Space Low,16.0,16.0
+Mun,Twin Craters,EVA Report,1,In Space Low,24.0,24.0
 Mun,Twin Craters,Surface Sample,1,Surface: Landed,120.0,160.0
 Mun,Southwest Crater,Mystery Goo Observation,1,Surface: Landed,40.0,52.0
 Mun,Southwest Crater,Materials Study,2,Surface: Landed,100.0,128.0
@@ -1249,12 +1560,12 @@ Mun,Southwest Crater,Temperature Scan,4,Surface: Landed,32.0,32.0
 Mun,Southwest Crater,Atmospheric Pressure Scan,5,Surface: Landed,48.0,48.0
 Mun,Southwest Crater,Seismic Scan,7,Surface: Landed,80.0,88.0
 Mun,Southwest Crater,Gravity Scan,8,Surface: Landed,80.0,88.0
-Mun,Southwest Crater,Gravity Scan,8,In Space Low,40.0,44.0
+Mun,Southwest Crater,Gravity Scan,8,In Space Low,60.0,66.0
 Mun,Southwest Crater,Gravity Scan,8,In Space High,40.0,44.0
 Mun,Southwest Crater,Atmosphere Analysis,7,Surface: Landed,80.0,96.0
 Mun,Southwest Crater,Crew Report,1,Surface: Landed,20.0,20.0
 Mun,Southwest Crater,EVA Report,1,Surface: Landed,32.0,32.0
-Mun,Southwest Crater,EVA Report,1,In Space Low,16.0,16.0
+Mun,Southwest Crater,EVA Report,1,In Space Low,24.0,24.0
 Mun,Southwest Crater,Surface Sample,1,Surface: Landed,120.0,160.0
 Minmus,Poles,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Poles,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1262,12 +1573,12 @@ Minmus,Poles,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Poles,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Poles,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Poles,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Poles,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Poles,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Poles,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Poles,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Poles,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Poles,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Poles,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Poles,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Poles,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Lowlands,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Lowlands,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1275,12 +1586,12 @@ Minmus,Lowlands,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Lowlands,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Lowlands,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Lowlands,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Lowlands,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Lowlands,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Lowlands,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Lowlands,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Lowlands,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Lowlands,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Lowlands,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Lowlands,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Midlands,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Midlands,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1288,12 +1599,12 @@ Minmus,Midlands,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Midlands,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Midlands,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Midlands,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Midlands,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Midlands,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Midlands,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Midlands,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Midlands,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Midlands,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Midlands,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Midlands,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Highlands,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Highlands,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1301,12 +1612,12 @@ Minmus,Highlands,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Highlands,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Highlands,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Highlands,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Highlands,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Highlands,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Highlands,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Highlands,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Highlands,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Highlands,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Highlands,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Highlands,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Slopes,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Slopes,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1314,12 +1625,12 @@ Minmus,Slopes,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Slopes,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Slopes,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Slopes,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Slopes,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Slopes,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Slopes,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Slopes,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Slopes,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Slopes,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Slopes,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Slopes,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Slopes,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Flats,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Flats,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1327,12 +1638,12 @@ Minmus,Flats,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Flats,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Flats,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Flats,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Flats,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Flats,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Flats,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Flats,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Flats,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Flats,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Flats,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Flats,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Flats,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Lesser Flats,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Lesser Flats,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1340,12 +1651,12 @@ Minmus,Lesser Flats,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Lesser Flats,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Lesser Flats,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Lesser Flats,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Lesser Flats,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Lesser Flats,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Lesser Flats,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Lesser Flats,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Lesser Flats,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Lesser Flats,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Lesser Flats,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Lesser Flats,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Lesser Flats,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Great Flats,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Great Flats,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1353,12 +1664,12 @@ Minmus,Great Flats,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Great Flats,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Great Flats,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Great Flats,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Great Flats,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Great Flats,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Great Flats,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Great Flats,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Great Flats,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Great Flats,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Great Flats,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Great Flats,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Great Flats,Surface Sample,1,Surface: Landed,150.0,200.0
 Minmus,Greater Flats,Mystery Goo Observation,1,Surface: Landed,50.0,65.0
 Minmus,Greater Flats,Materials Study,2,Surface: Landed,125.0,160.0
@@ -1366,12 +1677,12 @@ Minmus,Greater Flats,Temperature Scan,4,Surface: Landed,40.0,40.0
 Minmus,Greater Flats,Atmospheric Pressure Scan,5,Surface: Landed,60.0,60.0
 Minmus,Greater Flats,Seismic Scan,7,Surface: Landed,100.0,110.0
 Minmus,Greater Flats,Gravity Scan,8,Surface: Landed,100.0,110.0
-Minmus,Greater Flats,Gravity Scan,8,In Space Low,50.0,55.0
+Minmus,Greater Flats,Gravity Scan,8,In Space Low,80.0,88.0
 Minmus,Greater Flats,Gravity Scan,8,In Space High,50.0,55.0
 Minmus,Greater Flats,Atmosphere Analysis,7,Surface: Landed,100.0,120.0
 Minmus,Greater Flats,Crew Report,1,Surface: Landed,25.0,25.0
 Minmus,Greater Flats,EVA Report,1,Surface: Landed,40.0,40.0
-Minmus,Greater Flats,EVA Report,1,In Space Low,20.0,20.0
+Minmus,Greater Flats,EVA Report,1,In Space Low,32.0,32.0
 Minmus,Greater Flats,Surface Sample,1,Surface: Landed,150.0,200.0
 Duna,Poles,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Poles,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1380,7 +1691,7 @@ Duna,Poles,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Poles,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Poles,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Poles,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Poles,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Poles,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Poles,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Poles,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Poles,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1389,7 +1700,7 @@ Duna,Poles,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Poles,Crew Report,1,Flying Low,25.0,25.0
 Duna,Poles,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Poles,EVA Report,1,Flying Low,40.0,40.0
-Duna,Poles,EVA Report,1,In Space Low,40.0,40.0
+Duna,Poles,EVA Report,1,In Space Low,56.0,56.0
 Duna,Poles,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Polar Highlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Polar Highlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1398,7 +1709,7 @@ Duna,Polar Highlands,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Polar Highlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Polar Highlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Polar Highlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Polar Highlands,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Polar Highlands,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Polar Highlands,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Polar Highlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Polar Highlands,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1407,7 +1718,7 @@ Duna,Polar Highlands,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Polar Highlands,Crew Report,1,Flying Low,25.0,25.0
 Duna,Polar Highlands,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Polar Highlands,EVA Report,1,Flying Low,40.0,40.0
-Duna,Polar Highlands,EVA Report,1,In Space Low,40.0,40.0
+Duna,Polar Highlands,EVA Report,1,In Space Low,56.0,56.0
 Duna,Polar Highlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Polar Craters,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Polar Craters,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1416,7 +1727,7 @@ Duna,Polar Craters,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Polar Craters,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Polar Craters,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Polar Craters,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Polar Craters,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Polar Craters,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Polar Craters,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Polar Craters,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Polar Craters,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1425,7 +1736,7 @@ Duna,Polar Craters,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Polar Craters,Crew Report,1,Flying Low,25.0,25.0
 Duna,Polar Craters,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Polar Craters,EVA Report,1,Flying Low,40.0,40.0
-Duna,Polar Craters,EVA Report,1,In Space Low,40.0,40.0
+Duna,Polar Craters,EVA Report,1,In Space Low,56.0,56.0
 Duna,Polar Craters,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Highlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Highlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1434,7 +1745,7 @@ Duna,Highlands,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Highlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Highlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Highlands,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Highlands,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Highlands,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Highlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Highlands,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1443,7 +1754,7 @@ Duna,Highlands,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Highlands,Crew Report,1,Flying Low,25.0,25.0
 Duna,Highlands,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Highlands,EVA Report,1,Flying Low,40.0,40.0
-Duna,Highlands,EVA Report,1,In Space Low,40.0,40.0
+Duna,Highlands,EVA Report,1,In Space Low,56.0,56.0
 Duna,Highlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Midlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Midlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1452,7 +1763,7 @@ Duna,Midlands,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Midlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Midlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Midlands,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Midlands,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Midlands,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Midlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Midlands,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1461,7 +1772,7 @@ Duna,Midlands,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Midlands,Crew Report,1,Flying Low,25.0,25.0
 Duna,Midlands,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Midlands,EVA Report,1,Flying Low,40.0,40.0
-Duna,Midlands,EVA Report,1,In Space Low,40.0,40.0
+Duna,Midlands,EVA Report,1,In Space Low,56.0,56.0
 Duna,Midlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Lowlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Lowlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1470,7 +1781,7 @@ Duna,Lowlands,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Lowlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Lowlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Lowlands,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Lowlands,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Lowlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Lowlands,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1479,7 +1790,7 @@ Duna,Lowlands,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Lowlands,Crew Report,1,Flying Low,25.0,25.0
 Duna,Lowlands,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Lowlands,EVA Report,1,Flying Low,40.0,40.0
-Duna,Lowlands,EVA Report,1,In Space Low,40.0,40.0
+Duna,Lowlands,EVA Report,1,In Space Low,56.0,56.0
 Duna,Lowlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Craters,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Craters,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1488,7 +1799,7 @@ Duna,Craters,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Craters,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Craters,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Craters,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Craters,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Craters,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Craters,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Craters,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Craters,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1497,7 +1808,7 @@ Duna,Craters,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Craters,Crew Report,1,Flying Low,25.0,25.0
 Duna,Craters,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Craters,EVA Report,1,Flying Low,40.0,40.0
-Duna,Craters,EVA Report,1,In Space Low,40.0,40.0
+Duna,Craters,EVA Report,1,In Space Low,56.0,56.0
 Duna,Craters,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Midland Sea,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Midland Sea,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1506,7 +1817,7 @@ Duna,Midland Sea,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Midland Sea,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Midland Sea,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Midland Sea,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Midland Sea,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Midland Sea,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Midland Sea,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Midland Sea,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Midland Sea,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1515,7 +1826,7 @@ Duna,Midland Sea,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Midland Sea,Crew Report,1,Flying Low,25.0,25.0
 Duna,Midland Sea,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Midland Sea,EVA Report,1,Flying Low,40.0,40.0
-Duna,Midland Sea,EVA Report,1,In Space Low,40.0,40.0
+Duna,Midland Sea,EVA Report,1,In Space Low,56.0,56.0
 Duna,Midland Sea,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Northern Basin,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Northern Basin,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1524,7 +1835,7 @@ Duna,Northern Basin,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Northern Basin,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Northern Basin,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Northern Basin,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Northern Basin,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Northern Basin,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Northern Basin,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Northern Basin,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Northern Basin,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1533,7 +1844,7 @@ Duna,Northern Basin,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Northern Basin,Crew Report,1,Flying Low,25.0,25.0
 Duna,Northern Basin,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Northern Basin,EVA Report,1,Flying Low,40.0,40.0
-Duna,Northern Basin,EVA Report,1,In Space Low,40.0,40.0
+Duna,Northern Basin,EVA Report,1,In Space Low,56.0,56.0
 Duna,Northern Basin,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Southern Basin,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Southern Basin,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1542,7 +1853,7 @@ Duna,Southern Basin,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Southern Basin,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Southern Basin,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Southern Basin,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Southern Basin,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Southern Basin,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Southern Basin,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Southern Basin,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Southern Basin,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1551,7 +1862,7 @@ Duna,Southern Basin,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Southern Basin,Crew Report,1,Flying Low,25.0,25.0
 Duna,Southern Basin,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Southern Basin,EVA Report,1,Flying Low,40.0,40.0
-Duna,Southern Basin,EVA Report,1,In Space Low,40.0,40.0
+Duna,Southern Basin,EVA Report,1,In Space Low,56.0,56.0
 Duna,Southern Basin,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Northern Shelf,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Northern Shelf,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1560,7 +1871,7 @@ Duna,Northern Shelf,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Northern Shelf,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Northern Shelf,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Northern Shelf,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Northern Shelf,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Northern Shelf,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Northern Shelf,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Northern Shelf,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Northern Shelf,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1569,7 +1880,7 @@ Duna,Northern Shelf,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Northern Shelf,Crew Report,1,Flying Low,25.0,25.0
 Duna,Northern Shelf,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Northern Shelf,EVA Report,1,Flying Low,40.0,40.0
-Duna,Northern Shelf,EVA Report,1,In Space Low,40.0,40.0
+Duna,Northern Shelf,EVA Report,1,In Space Low,56.0,56.0
 Duna,Northern Shelf,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Midland Canyon,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Midland Canyon,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1578,7 +1889,7 @@ Duna,Midland Canyon,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Midland Canyon,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Midland Canyon,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Midland Canyon,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Midland Canyon,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Midland Canyon,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Midland Canyon,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Midland Canyon,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Midland Canyon,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1587,7 +1898,7 @@ Duna,Midland Canyon,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Midland Canyon,Crew Report,1,Flying Low,25.0,25.0
 Duna,Midland Canyon,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Midland Canyon,EVA Report,1,Flying Low,40.0,40.0
-Duna,Midland Canyon,EVA Report,1,In Space Low,40.0,40.0
+Duna,Midland Canyon,EVA Report,1,In Space Low,56.0,56.0
 Duna,Midland Canyon,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Eastern Canyon,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Eastern Canyon,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1596,7 +1907,7 @@ Duna,Eastern Canyon,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Eastern Canyon,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Eastern Canyon,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Eastern Canyon,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Eastern Canyon,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Eastern Canyon,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Eastern Canyon,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Eastern Canyon,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Eastern Canyon,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1605,7 +1916,7 @@ Duna,Eastern Canyon,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Eastern Canyon,Crew Report,1,Flying Low,25.0,25.0
 Duna,Eastern Canyon,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Eastern Canyon,EVA Report,1,Flying Low,40.0,40.0
-Duna,Eastern Canyon,EVA Report,1,In Space Low,40.0,40.0
+Duna,Eastern Canyon,EVA Report,1,In Space Low,56.0,56.0
 Duna,Eastern Canyon,Surface Sample,1,Surface: Landed,240.0,320.0
 Duna,Western Canyon,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Duna,Western Canyon,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1614,7 +1925,7 @@ Duna,Western Canyon,Temperature Scan,4,Flying Low,40.0,40.0
 Duna,Western Canyon,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Duna,Western Canyon,Seismic Scan,7,Surface: Landed,160.0,176.0
 Duna,Western Canyon,Gravity Scan,8,Surface: Landed,160.0,176.0
-Duna,Western Canyon,Gravity Scan,8,In Space Low,100.0,110.0
+Duna,Western Canyon,Gravity Scan,8,In Space Low,140.0,154.0
 Duna,Western Canyon,Gravity Scan,8,In Space High,100.0,110.0
 Duna,Western Canyon,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Duna,Western Canyon,Atmosphere Analysis,7,Flying Low,100.0,120.0
@@ -1623,7 +1934,7 @@ Duna,Western Canyon,Crew Report,1,Surface: Landed,40.0,40.0
 Duna,Western Canyon,Crew Report,1,Flying Low,25.0,25.0
 Duna,Western Canyon,EVA Report,1,Surface: Landed,64.0,64.0
 Duna,Western Canyon,EVA Report,1,Flying Low,40.0,40.0
-Duna,Western Canyon,EVA Report,1,In Space Low,40.0,40.0
+Duna,Western Canyon,EVA Report,1,In Space Low,56.0,56.0
 Duna,Western Canyon,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,Polar Lowlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,Polar Lowlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1631,12 +1942,12 @@ Ike,Polar Lowlands,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,Polar Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,Polar Lowlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,Polar Lowlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,Polar Lowlands,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,Polar Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,Polar Lowlands,Gravity Scan,8,In Space High,100.0,110.0
 Ike,Polar Lowlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,Polar Lowlands,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,Polar Lowlands,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,Polar Lowlands,EVA Report,1,In Space Low,40.0,40.0
+Ike,Polar Lowlands,EVA Report,1,In Space Low,56.0,56.0
 Ike,Polar Lowlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,Midlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,Midlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1644,12 +1955,12 @@ Ike,Midlands,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,Midlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,Midlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,Midlands,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,Midlands,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,Midlands,Gravity Scan,8,In Space High,100.0,110.0
 Ike,Midlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,Midlands,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,Midlands,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,Midlands,EVA Report,1,In Space Low,40.0,40.0
+Ike,Midlands,EVA Report,1,In Space Low,56.0,56.0
 Ike,Midlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,Lowlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,Lowlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1657,12 +1968,12 @@ Ike,Lowlands,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,Lowlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,Lowlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,Lowlands,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,Lowlands,Gravity Scan,8,In Space High,100.0,110.0
 Ike,Lowlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,Lowlands,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,Lowlands,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,Lowlands,EVA Report,1,In Space Low,40.0,40.0
+Ike,Lowlands,EVA Report,1,In Space Low,56.0,56.0
 Ike,Lowlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,Eastern Mountain Ridge,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,Eastern Mountain Ridge,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1670,12 +1981,12 @@ Ike,Eastern Mountain Ridge,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,Eastern Mountain Ridge,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,Eastern Mountain Ridge,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,Eastern Mountain Ridge,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,Eastern Mountain Ridge,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,Eastern Mountain Ridge,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,Eastern Mountain Ridge,Gravity Scan,8,In Space High,100.0,110.0
 Ike,Eastern Mountain Ridge,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,Eastern Mountain Ridge,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,Eastern Mountain Ridge,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,Eastern Mountain Ridge,EVA Report,1,In Space Low,40.0,40.0
+Ike,Eastern Mountain Ridge,EVA Report,1,In Space Low,56.0,56.0
 Ike,Eastern Mountain Ridge,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,Western Mountain Ridge,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,Western Mountain Ridge,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1683,12 +1994,12 @@ Ike,Western Mountain Ridge,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,Western Mountain Ridge,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,Western Mountain Ridge,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,Western Mountain Ridge,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,Western Mountain Ridge,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,Western Mountain Ridge,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,Western Mountain Ridge,Gravity Scan,8,In Space High,100.0,110.0
 Ike,Western Mountain Ridge,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,Western Mountain Ridge,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,Western Mountain Ridge,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,Western Mountain Ridge,EVA Report,1,In Space Low,40.0,40.0
+Ike,Western Mountain Ridge,EVA Report,1,In Space Low,56.0,56.0
 Ike,Western Mountain Ridge,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,Central Mountain Range,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,Central Mountain Range,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1696,12 +2007,12 @@ Ike,Central Mountain Range,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,Central Mountain Range,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,Central Mountain Range,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,Central Mountain Range,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,Central Mountain Range,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,Central Mountain Range,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,Central Mountain Range,Gravity Scan,8,In Space High,100.0,110.0
 Ike,Central Mountain Range,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,Central Mountain Range,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,Central Mountain Range,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,Central Mountain Range,EVA Report,1,In Space Low,40.0,40.0
+Ike,Central Mountain Range,EVA Report,1,In Space Low,56.0,56.0
 Ike,Central Mountain Range,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,South Eastern Mountain Range,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,South Eastern Mountain Range,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1709,12 +2020,12 @@ Ike,South Eastern Mountain Range,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,South Eastern Mountain Range,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,South Eastern Mountain Range,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,South Eastern Mountain Range,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,South Eastern Mountain Range,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,South Eastern Mountain Range,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,South Eastern Mountain Range,Gravity Scan,8,In Space High,100.0,110.0
 Ike,South Eastern Mountain Range,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,South Eastern Mountain Range,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,South Eastern Mountain Range,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,South Eastern Mountain Range,EVA Report,1,In Space Low,40.0,40.0
+Ike,South Eastern Mountain Range,EVA Report,1,In Space Low,56.0,56.0
 Ike,South Eastern Mountain Range,Surface Sample,1,Surface: Landed,240.0,320.0
 Ike,South Pole,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Ike,South Pole,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1722,12 +2033,12 @@ Ike,South Pole,Temperature Scan,4,Surface: Landed,64.0,64.0
 Ike,South Pole,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Ike,South Pole,Seismic Scan,7,Surface: Landed,160.0,176.0
 Ike,South Pole,Gravity Scan,8,Surface: Landed,160.0,176.0
-Ike,South Pole,Gravity Scan,8,In Space Low,100.0,110.0
+Ike,South Pole,Gravity Scan,8,In Space Low,140.0,154.0
 Ike,South Pole,Gravity Scan,8,In Space High,100.0,110.0
 Ike,South Pole,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Ike,South Pole,Crew Report,1,Surface: Landed,40.0,40.0
 Ike,South Pole,EVA Report,1,Surface: Landed,64.0,64.0
-Ike,South Pole,EVA Report,1,In Space Low,40.0,40.0
+Ike,South Pole,EVA Report,1,In Space Low,56.0,56.0
 Ike,South Pole,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Poles,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Poles,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1735,12 +2046,12 @@ Dres,Poles,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Poles,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Poles,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Poles,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Poles,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Poles,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Poles,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Poles,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Poles,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Poles,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Poles,EVA Report,1,In Space Low,48.0,48.0
+Dres,Poles,EVA Report,1,In Space Low,56.0,56.0
 Dres,Poles,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Highlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Highlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1748,12 +2059,12 @@ Dres,Highlands,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Highlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Highlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Highlands,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Highlands,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Highlands,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Highlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Highlands,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Highlands,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Highlands,EVA Report,1,In Space Low,48.0,48.0
+Dres,Highlands,EVA Report,1,In Space Low,56.0,56.0
 Dres,Highlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Midlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Midlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1761,12 +2072,12 @@ Dres,Midlands,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Midlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Midlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Midlands,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Midlands,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Midlands,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Midlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Midlands,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Midlands,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Midlands,EVA Report,1,In Space Low,48.0,48.0
+Dres,Midlands,EVA Report,1,In Space Low,56.0,56.0
 Dres,Midlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Lowlands,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Lowlands,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1774,12 +2085,12 @@ Dres,Lowlands,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Lowlands,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Lowlands,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Lowlands,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Lowlands,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Lowlands,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Lowlands,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Lowlands,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Lowlands,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Lowlands,EVA Report,1,In Space Low,48.0,48.0
+Dres,Lowlands,EVA Report,1,In Space Low,56.0,56.0
 Dres,Lowlands,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Ridges,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Ridges,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1787,12 +2098,12 @@ Dres,Ridges,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Ridges,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Ridges,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Ridges,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Ridges,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Ridges,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Ridges,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Ridges,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Ridges,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Ridges,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Ridges,EVA Report,1,In Space Low,48.0,48.0
+Dres,Ridges,EVA Report,1,In Space Low,56.0,56.0
 Dres,Ridges,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Impact Ejecta,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Impact Ejecta,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1800,12 +2111,12 @@ Dres,Impact Ejecta,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Impact Ejecta,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Impact Ejecta,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Impact Ejecta,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Impact Ejecta,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Impact Ejecta,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Impact Ejecta,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Impact Ejecta,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Impact Ejecta,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Impact Ejecta,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Impact Ejecta,EVA Report,1,In Space Low,48.0,48.0
+Dres,Impact Ejecta,EVA Report,1,In Space Low,56.0,56.0
 Dres,Impact Ejecta,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Impact Craters,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Impact Craters,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1813,12 +2124,12 @@ Dres,Impact Craters,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Impact Craters,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Impact Craters,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Impact Craters,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Impact Craters,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Impact Craters,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Impact Craters,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Impact Craters,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Impact Craters,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Impact Craters,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Impact Craters,EVA Report,1,In Space Low,48.0,48.0
+Dres,Impact Craters,EVA Report,1,In Space Low,56.0,56.0
 Dres,Impact Craters,Surface Sample,1,Surface: Landed,240.0,320.0
 Dres,Canyons,Mystery Goo Observation,1,Surface: Landed,80.0,104.0
 Dres,Canyons,Materials Study,2,Surface: Landed,200.0,256.0
@@ -1826,21 +2137,21 @@ Dres,Canyons,Temperature Scan,4,Surface: Landed,64.0,64.0
 Dres,Canyons,Atmospheric Pressure Scan,5,Surface: Landed,96.0,96.0
 Dres,Canyons,Seismic Scan,7,Surface: Landed,160.0,176.0
 Dres,Canyons,Gravity Scan,8,Surface: Landed,160.0,176.0
-Dres,Canyons,Gravity Scan,8,In Space Low,120.0,132.0
+Dres,Canyons,Gravity Scan,8,In Space Low,140.0,154.0
 Dres,Canyons,Gravity Scan,8,In Space High,120.0,132.0
 Dres,Canyons,Atmosphere Analysis,7,Surface: Landed,160.0,192.0
 Dres,Canyons,Crew Report,1,Surface: Landed,40.0,40.0
 Dres,Canyons,EVA Report,1,Surface: Landed,64.0,64.0
-Dres,Canyons,EVA Report,1,In Space Low,48.0,48.0
+Dres,Canyons,EVA Report,1,In Space Low,56.0,56.0
 Dres,Canyons,Surface Sample,1,Surface: Landed,240.0,320.0
 Jool,Universal,Temperature Scan,4,Flying Low,96.0,96.0
-Jool,Universal,Gravity Scan,8,In Space Low,120.0,132.0
+Jool,Universal,Gravity Scan,8,In Space Low,140.0,154.0
 Jool,Universal,Gravity Scan,8,In Space High,120.0,132.0
 Jool,Universal,Atmosphere Analysis,7,Flying Low,240.0,288.0
 Jool,Universal,Atmosphere Analysis,7,Flying High,180.0,216.0
 Jool,Universal,Crew Report,1,Flying Low,60.0,60.0
 Jool,Universal,EVA Report,1,Flying Low,96.0,96.0
-Jool,Universal,EVA Report,1,In Space Low,48.0,48.0
+Jool,Universal,EVA Report,1,In Space Low,56.0,56.0
 Laythe,Poles,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,Poles,Materials Study,2,Surface: Landed,350.0,448.0
 Laythe,Poles,Temperature Scan,4,Surface: Landed,112.0,112.0
@@ -1848,7 +2159,7 @@ Laythe,Poles,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Poles,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,Poles,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Poles,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Poles,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Poles,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Poles,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Poles,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Poles,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -1857,26 +2168,34 @@ Laythe,Poles,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,Poles,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Poles,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,Poles,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Poles,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Poles,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Poles,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,Shores,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
+Laythe,Shores,Mystery Goo Observation,1,Surface: Splashed,120.0,156.0
 Laythe,Shores,Materials Study,2,Surface: Landed,350.0,448.0
+Laythe,Shores,Materials Study,2,Surface: Splashed,300.0,384.0
 Laythe,Shores,Temperature Scan,4,Surface: Landed,112.0,112.0
+Laythe,Shores,Temperature Scan,4,Surface: Splashed,96.0,96.0
 Laythe,Shores,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Shores,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
+Laythe,Shores,Atmospheric Pressure Scan,5,Surface: Splashed,144.0,144.0
 Laythe,Shores,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Shores,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Shores,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Shores,Gravity Scan,8,Surface: Splashed,240.0,264.0
+Laythe,Shores,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Shores,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Shores,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Shores,Atmosphere Analysis,7,Flying Low,220.0,264.0
 Laythe,Shores,Atmosphere Analysis,7,Flying High,200.0,240.0
 Laythe,Shores,Crew Report,1,Surface: Landed,70.0,70.0
+Laythe,Shores,Crew Report,1,Surface: Splashed,60.0,60.0
 Laythe,Shores,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Shores,EVA Report,1,Surface: Landed,112.0,112.0
+Laythe,Shores,EVA Report,1,Surface: Splashed,96.0,96.0
 Laythe,Shores,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Shores,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Shores,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Shores,Surface Sample,1,Surface: Landed,420.0,560.0
+Laythe,Shores,Surface Sample,1,Surface: Splashed,360.0,480.0
 Laythe,Dunes,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,Dunes,Materials Study,2,Surface: Landed,350.0,448.0
 Laythe,Dunes,Temperature Scan,4,Surface: Landed,112.0,112.0
@@ -1884,7 +2203,7 @@ Laythe,Dunes,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Dunes,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,Dunes,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Dunes,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Dunes,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Dunes,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Dunes,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Dunes,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Dunes,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -1893,7 +2212,7 @@ Laythe,Dunes,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,Dunes,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Dunes,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,Dunes,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Dunes,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Dunes,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Dunes,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,Crescent Bay,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,Crescent Bay,Materials Study,2,Surface: Landed,350.0,448.0
@@ -1902,7 +2221,7 @@ Laythe,Crescent Bay,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Crescent Bay,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,Crescent Bay,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Crescent Bay,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Crescent Bay,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Crescent Bay,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Crescent Bay,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Crescent Bay,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Crescent Bay,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -1911,7 +2230,7 @@ Laythe,Crescent Bay,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,Crescent Bay,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Crescent Bay,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,Crescent Bay,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Crescent Bay,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Crescent Bay,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Crescent Bay,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,The Sagen Sea,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,The Sagen Sea,Materials Study,2,Surface: Landed,350.0,448.0
@@ -1920,7 +2239,7 @@ Laythe,The Sagen Sea,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,The Sagen Sea,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,The Sagen Sea,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,The Sagen Sea,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,The Sagen Sea,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,The Sagen Sea,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,The Sagen Sea,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,The Sagen Sea,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,The Sagen Sea,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -1929,7 +2248,7 @@ Laythe,The Sagen Sea,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,The Sagen Sea,Crew Report,1,Flying Low,55.0,55.0
 Laythe,The Sagen Sea,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,The Sagen Sea,EVA Report,1,Flying Low,88.0,88.0
-Laythe,The Sagen Sea,EVA Report,1,In Space Low,64.0,64.0
+Laythe,The Sagen Sea,EVA Report,1,In Space Low,72.0,72.0
 Laythe,The Sagen Sea,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,Crater Island,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,Crater Island,Materials Study,2,Surface: Landed,350.0,448.0
@@ -1938,7 +2257,7 @@ Laythe,Crater Island,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Crater Island,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,Crater Island,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Crater Island,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Crater Island,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Crater Island,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Crater Island,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Crater Island,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Crater Island,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -1947,7 +2266,7 @@ Laythe,Crater Island,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,Crater Island,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Crater Island,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,Crater Island,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Crater Island,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Crater Island,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Crater Island,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,Shallows,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,Shallows,Materials Study,2,Surface: Landed,350.0,448.0
@@ -1956,7 +2275,7 @@ Laythe,Shallows,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Shallows,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,Shallows,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Shallows,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Shallows,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Shallows,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Shallows,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Shallows,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Shallows,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -1965,7 +2284,7 @@ Laythe,Shallows,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,Shallows,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Shallows,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,Shallows,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Shallows,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Shallows,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Shallows,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,Crater Bay,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,Crater Bay,Materials Study,2,Surface: Landed,350.0,448.0
@@ -1974,7 +2293,7 @@ Laythe,Crater Bay,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Crater Bay,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,Crater Bay,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Crater Bay,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Crater Bay,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Crater Bay,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Crater Bay,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Crater Bay,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Crater Bay,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -1983,7 +2302,7 @@ Laythe,Crater Bay,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,Crater Bay,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Crater Bay,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,Crater Bay,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Crater Bay,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Crater Bay,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Crater Bay,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,DeGrasse Sea,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,DeGrasse Sea,Materials Study,2,Surface: Landed,350.0,448.0
@@ -1992,7 +2311,7 @@ Laythe,DeGrasse Sea,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,DeGrasse Sea,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,DeGrasse Sea,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,DeGrasse Sea,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,DeGrasse Sea,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,DeGrasse Sea,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,DeGrasse Sea,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,DeGrasse Sea,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,DeGrasse Sea,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -2001,7 +2320,7 @@ Laythe,DeGrasse Sea,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,DeGrasse Sea,Crew Report,1,Flying Low,55.0,55.0
 Laythe,DeGrasse Sea,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,DeGrasse Sea,EVA Report,1,Flying Low,88.0,88.0
-Laythe,DeGrasse Sea,EVA Report,1,In Space Low,64.0,64.0
+Laythe,DeGrasse Sea,EVA Report,1,In Space Low,72.0,72.0
 Laythe,DeGrasse Sea,Surface Sample,1,Surface: Landed,420.0,560.0
 Laythe,Peaks,Mystery Goo Observation,1,Surface: Landed,140.0,182.0
 Laythe,Peaks,Materials Study,2,Surface: Landed,350.0,448.0
@@ -2010,7 +2329,7 @@ Laythe,Peaks,Temperature Scan,4,Flying Low,88.0,88.0
 Laythe,Peaks,Atmospheric Pressure Scan,5,Surface: Landed,168.0,168.0
 Laythe,Peaks,Seismic Scan,7,Surface: Landed,280.0,308.0
 Laythe,Peaks,Gravity Scan,8,Surface: Landed,280.0,308.0
-Laythe,Peaks,Gravity Scan,8,In Space Low,160.0,176.0
+Laythe,Peaks,Gravity Scan,8,In Space Low,180.0,198.0
 Laythe,Peaks,Gravity Scan,8,In Space High,160.0,176.0
 Laythe,Peaks,Atmosphere Analysis,7,Surface: Landed,280.0,336.0
 Laythe,Peaks,Atmosphere Analysis,7,Flying Low,220.0,264.0
@@ -2019,7 +2338,7 @@ Laythe,Peaks,Crew Report,1,Surface: Landed,70.0,70.0
 Laythe,Peaks,Crew Report,1,Flying Low,55.0,55.0
 Laythe,Peaks,EVA Report,1,Surface: Landed,112.0,112.0
 Laythe,Peaks,EVA Report,1,Flying Low,88.0,88.0
-Laythe,Peaks,EVA Report,1,In Space Low,64.0,64.0
+Laythe,Peaks,EVA Report,1,In Space Low,72.0,72.0
 Laythe,Peaks,Surface Sample,1,Surface: Landed,420.0,560.0
 Vall,Poles,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Poles,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2027,12 +2346,12 @@ Vall,Poles,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Poles,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Poles,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Poles,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Poles,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Poles,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Poles,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Poles,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Poles,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Poles,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Poles,EVA Report,1,In Space Low,64.0,64.0
+Vall,Poles,EVA Report,1,In Space Low,72.0,72.0
 Vall,Poles,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Highlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Highlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2040,12 +2359,12 @@ Vall,Highlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Highlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Highlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Highlands,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Highlands,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Highlands,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Highlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Highlands,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Highlands,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Highlands,EVA Report,1,In Space Low,64.0,64.0
+Vall,Highlands,EVA Report,1,In Space Low,72.0,72.0
 Vall,Highlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Midlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Midlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2053,12 +2372,12 @@ Vall,Midlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Midlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Midlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Midlands,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Midlands,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Midlands,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Midlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Midlands,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Midlands,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Midlands,EVA Report,1,In Space Low,64.0,64.0
+Vall,Midlands,EVA Report,1,In Space Low,72.0,72.0
 Vall,Midlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Lowlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Lowlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2066,12 +2385,12 @@ Vall,Lowlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Lowlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Lowlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Lowlands,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Lowlands,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Lowlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Lowlands,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Lowlands,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Lowlands,EVA Report,1,In Space Low,64.0,64.0
+Vall,Lowlands,EVA Report,1,In Space Low,72.0,72.0
 Vall,Lowlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Mountains,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Mountains,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2079,12 +2398,12 @@ Vall,Mountains,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Mountains,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Mountains,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Mountains,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Mountains,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Mountains,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Mountains,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Mountains,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Mountains,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Mountains,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Mountains,EVA Report,1,In Space Low,64.0,64.0
+Vall,Mountains,EVA Report,1,In Space Low,72.0,72.0
 Vall,Mountains,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Northeast Basin,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Northeast Basin,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2092,12 +2411,12 @@ Vall,Northeast Basin,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Northeast Basin,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Northeast Basin,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Northeast Basin,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Northeast Basin,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Northeast Basin,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Northeast Basin,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Northeast Basin,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Northeast Basin,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Northeast Basin,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Northeast Basin,EVA Report,1,In Space Low,64.0,64.0
+Vall,Northeast Basin,EVA Report,1,In Space Low,72.0,72.0
 Vall,Northeast Basin,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Northwest Basin,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Northwest Basin,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2105,12 +2424,12 @@ Vall,Northwest Basin,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Northwest Basin,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Northwest Basin,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Northwest Basin,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Northwest Basin,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Northwest Basin,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Northwest Basin,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Northwest Basin,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Northwest Basin,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Northwest Basin,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Northwest Basin,EVA Report,1,In Space Low,64.0,64.0
+Vall,Northwest Basin,EVA Report,1,In Space Low,72.0,72.0
 Vall,Northwest Basin,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Southern Basin,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Southern Basin,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2118,12 +2437,12 @@ Vall,Southern Basin,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Southern Basin,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Southern Basin,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Southern Basin,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Southern Basin,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Southern Basin,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Southern Basin,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Southern Basin,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Southern Basin,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Southern Basin,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Southern Basin,EVA Report,1,In Space Low,64.0,64.0
+Vall,Southern Basin,EVA Report,1,In Space Low,72.0,72.0
 Vall,Southern Basin,Surface Sample,1,Surface: Landed,360.0,480.0
 Vall,Southern Valleys,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Vall,Southern Valleys,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2131,12 +2450,12 @@ Vall,Southern Valleys,Temperature Scan,4,Surface: Landed,96.0,96.0
 Vall,Southern Valleys,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Vall,Southern Valleys,Seismic Scan,7,Surface: Landed,240.0,264.0
 Vall,Southern Valleys,Gravity Scan,8,Surface: Landed,240.0,264.0
-Vall,Southern Valleys,Gravity Scan,8,In Space Low,160.0,176.0
+Vall,Southern Valleys,Gravity Scan,8,In Space Low,180.0,198.0
 Vall,Southern Valleys,Gravity Scan,8,In Space High,160.0,176.0
 Vall,Southern Valleys,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Vall,Southern Valleys,Crew Report,1,Surface: Landed,60.0,60.0
 Vall,Southern Valleys,EVA Report,1,Surface: Landed,96.0,96.0
-Vall,Southern Valleys,EVA Report,1,In Space Low,64.0,64.0
+Vall,Southern Valleys,EVA Report,1,In Space Low,72.0,72.0
 Vall,Southern Valleys,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Highlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Highlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2144,12 +2463,12 @@ Tylo,Highlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Highlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Highlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Highlands,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Highlands,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Highlands,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Highlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Highlands,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Highlands,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Highlands,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Highlands,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Highlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Midlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Midlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2157,12 +2476,12 @@ Tylo,Midlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Midlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Midlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Midlands,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Midlands,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Midlands,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Midlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Midlands,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Midlands,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Midlands,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Midlands,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Midlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Lowlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Lowlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2170,12 +2489,12 @@ Tylo,Lowlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Lowlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Lowlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Lowlands,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Lowlands,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Lowlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Lowlands,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Lowlands,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Lowlands,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Lowlands,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Lowlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Mara,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Mara,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2183,12 +2502,12 @@ Tylo,Mara,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Mara,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Mara,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Mara,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Mara,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Mara,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Mara,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Mara,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Mara,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Mara,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Mara,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Mara,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Mara,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Minor Craters,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Minor Craters,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2196,12 +2515,12 @@ Tylo,Minor Craters,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Minor Craters,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Minor Craters,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Minor Craters,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Minor Craters,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Minor Craters,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Minor Craters,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Minor Craters,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Minor Craters,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Minor Craters,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Minor Craters,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Minor Craters,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Minor Craters,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Gagarin Crater,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Gagarin Crater,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2209,12 +2528,12 @@ Tylo,Gagarin Crater,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Gagarin Crater,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Gagarin Crater,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Gagarin Crater,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Gagarin Crater,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Gagarin Crater,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Gagarin Crater,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Gagarin Crater,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Gagarin Crater,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Gagarin Crater,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Gagarin Crater,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Gagarin Crater,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Gagarin Crater,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Grissom Crater,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Grissom Crater,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2222,12 +2541,12 @@ Tylo,Grissom Crater,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Grissom Crater,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Grissom Crater,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Grissom Crater,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Grissom Crater,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Grissom Crater,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Grissom Crater,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Grissom Crater,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Grissom Crater,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Grissom Crater,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Grissom Crater,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Grissom Crater,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Grissom Crater,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Galileio Crater,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Galileio Crater,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2235,12 +2554,12 @@ Tylo,Galileio Crater,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Galileio Crater,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Galileio Crater,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Galileio Crater,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Galileio Crater,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Galileio Crater,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Galileio Crater,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Galileio Crater,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Galileio Crater,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Galileio Crater,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Galileio Crater,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Galileio Crater,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Galileio Crater,Surface Sample,1,Surface: Landed,360.0,480.0
 Tylo,Tycho Crater,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Tylo,Tycho Crater,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2248,12 +2567,12 @@ Tylo,Tycho Crater,Temperature Scan,4,Surface: Landed,96.0,96.0
 Tylo,Tycho Crater,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Tylo,Tycho Crater,Seismic Scan,7,Surface: Landed,240.0,264.0
 Tylo,Tycho Crater,Gravity Scan,8,Surface: Landed,240.0,264.0
-Tylo,Tycho Crater,Gravity Scan,8,In Space Low,160.0,176.0
+Tylo,Tycho Crater,Gravity Scan,8,In Space Low,200.0,220.0
 Tylo,Tycho Crater,Gravity Scan,8,In Space High,160.0,176.0
 Tylo,Tycho Crater,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Tylo,Tycho Crater,Crew Report,1,Surface: Landed,60.0,60.0
 Tylo,Tycho Crater,EVA Report,1,Surface: Landed,96.0,96.0
-Tylo,Tycho Crater,EVA Report,1,In Space Low,64.0,64.0
+Tylo,Tycho Crater,EVA Report,1,In Space Low,80.0,80.0
 Tylo,Tycho Crater,Surface Sample,1,Surface: Landed,360.0,480.0
 Bop,Poles,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Bop,Poles,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2261,12 +2580,12 @@ Bop,Poles,Temperature Scan,4,Surface: Landed,96.0,96.0
 Bop,Poles,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Bop,Poles,Seismic Scan,7,Surface: Landed,240.0,264.0
 Bop,Poles,Gravity Scan,8,Surface: Landed,240.0,264.0
-Bop,Poles,Gravity Scan,8,In Space Low,160.0,176.0
+Bop,Poles,Gravity Scan,8,In Space Low,180.0,198.0
 Bop,Poles,Gravity Scan,8,In Space High,160.0,176.0
 Bop,Poles,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Bop,Poles,Crew Report,1,Surface: Landed,60.0,60.0
 Bop,Poles,EVA Report,1,Surface: Landed,96.0,96.0
-Bop,Poles,EVA Report,1,In Space Low,64.0,64.0
+Bop,Poles,EVA Report,1,In Space Low,72.0,72.0
 Bop,Poles,Surface Sample,1,Surface: Landed,360.0,480.0
 Bop,Slopes,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Bop,Slopes,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2274,12 +2593,12 @@ Bop,Slopes,Temperature Scan,4,Surface: Landed,96.0,96.0
 Bop,Slopes,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Bop,Slopes,Seismic Scan,7,Surface: Landed,240.0,264.0
 Bop,Slopes,Gravity Scan,8,Surface: Landed,240.0,264.0
-Bop,Slopes,Gravity Scan,8,In Space Low,160.0,176.0
+Bop,Slopes,Gravity Scan,8,In Space Low,180.0,198.0
 Bop,Slopes,Gravity Scan,8,In Space High,160.0,176.0
 Bop,Slopes,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Bop,Slopes,Crew Report,1,Surface: Landed,60.0,60.0
 Bop,Slopes,EVA Report,1,Surface: Landed,96.0,96.0
-Bop,Slopes,EVA Report,1,In Space Low,64.0,64.0
+Bop,Slopes,EVA Report,1,In Space Low,72.0,72.0
 Bop,Slopes,Surface Sample,1,Surface: Landed,360.0,480.0
 Bop,Peaks,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Bop,Peaks,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2287,12 +2606,12 @@ Bop,Peaks,Temperature Scan,4,Surface: Landed,96.0,96.0
 Bop,Peaks,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Bop,Peaks,Seismic Scan,7,Surface: Landed,240.0,264.0
 Bop,Peaks,Gravity Scan,8,Surface: Landed,240.0,264.0
-Bop,Peaks,Gravity Scan,8,In Space Low,160.0,176.0
+Bop,Peaks,Gravity Scan,8,In Space Low,180.0,198.0
 Bop,Peaks,Gravity Scan,8,In Space High,160.0,176.0
 Bop,Peaks,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Bop,Peaks,Crew Report,1,Surface: Landed,60.0,60.0
 Bop,Peaks,EVA Report,1,Surface: Landed,96.0,96.0
-Bop,Peaks,EVA Report,1,In Space Low,64.0,64.0
+Bop,Peaks,EVA Report,1,In Space Low,72.0,72.0
 Bop,Peaks,Surface Sample,1,Surface: Landed,360.0,480.0
 Bop,Valley,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Bop,Valley,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2300,12 +2619,12 @@ Bop,Valley,Temperature Scan,4,Surface: Landed,96.0,96.0
 Bop,Valley,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Bop,Valley,Seismic Scan,7,Surface: Landed,240.0,264.0
 Bop,Valley,Gravity Scan,8,Surface: Landed,240.0,264.0
-Bop,Valley,Gravity Scan,8,In Space Low,160.0,176.0
+Bop,Valley,Gravity Scan,8,In Space Low,180.0,198.0
 Bop,Valley,Gravity Scan,8,In Space High,160.0,176.0
 Bop,Valley,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Bop,Valley,Crew Report,1,Surface: Landed,60.0,60.0
 Bop,Valley,EVA Report,1,Surface: Landed,96.0,96.0
-Bop,Valley,EVA Report,1,In Space Low,64.0,64.0
+Bop,Valley,EVA Report,1,In Space Low,72.0,72.0
 Bop,Valley,Surface Sample,1,Surface: Landed,360.0,480.0
 Bop,Ridges,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Bop,Ridges,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2313,12 +2632,12 @@ Bop,Ridges,Temperature Scan,4,Surface: Landed,96.0,96.0
 Bop,Ridges,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Bop,Ridges,Seismic Scan,7,Surface: Landed,240.0,264.0
 Bop,Ridges,Gravity Scan,8,Surface: Landed,240.0,264.0
-Bop,Ridges,Gravity Scan,8,In Space Low,160.0,176.0
+Bop,Ridges,Gravity Scan,8,In Space Low,180.0,198.0
 Bop,Ridges,Gravity Scan,8,In Space High,160.0,176.0
 Bop,Ridges,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Bop,Ridges,Crew Report,1,Surface: Landed,60.0,60.0
 Bop,Ridges,EVA Report,1,Surface: Landed,96.0,96.0
-Bop,Ridges,EVA Report,1,In Space Low,64.0,64.0
+Bop,Ridges,EVA Report,1,In Space Low,72.0,72.0
 Bop,Ridges,Surface Sample,1,Surface: Landed,360.0,480.0
 Pol,Poles,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Pol,Poles,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2326,12 +2645,12 @@ Pol,Poles,Temperature Scan,4,Surface: Landed,96.0,96.0
 Pol,Poles,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Pol,Poles,Seismic Scan,7,Surface: Landed,240.0,264.0
 Pol,Poles,Gravity Scan,8,Surface: Landed,240.0,264.0
-Pol,Poles,Gravity Scan,8,In Space Low,160.0,176.0
+Pol,Poles,Gravity Scan,8,In Space Low,180.0,198.0
 Pol,Poles,Gravity Scan,8,In Space High,160.0,176.0
 Pol,Poles,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Pol,Poles,Crew Report,1,Surface: Landed,60.0,60.0
 Pol,Poles,EVA Report,1,Surface: Landed,96.0,96.0
-Pol,Poles,EVA Report,1,In Space Low,64.0,64.0
+Pol,Poles,EVA Report,1,In Space Low,72.0,72.0
 Pol,Poles,Surface Sample,1,Surface: Landed,360.0,480.0
 Pol,Lowlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Pol,Lowlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2339,12 +2658,12 @@ Pol,Lowlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Pol,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Pol,Lowlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Pol,Lowlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Pol,Lowlands,Gravity Scan,8,In Space Low,160.0,176.0
+Pol,Lowlands,Gravity Scan,8,In Space Low,180.0,198.0
 Pol,Lowlands,Gravity Scan,8,In Space High,160.0,176.0
 Pol,Lowlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Pol,Lowlands,Crew Report,1,Surface: Landed,60.0,60.0
 Pol,Lowlands,EVA Report,1,Surface: Landed,96.0,96.0
-Pol,Lowlands,EVA Report,1,In Space Low,64.0,64.0
+Pol,Lowlands,EVA Report,1,In Space Low,72.0,72.0
 Pol,Lowlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Pol,Midlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Pol,Midlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2352,12 +2671,12 @@ Pol,Midlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Pol,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Pol,Midlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Pol,Midlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Pol,Midlands,Gravity Scan,8,In Space Low,160.0,176.0
+Pol,Midlands,Gravity Scan,8,In Space Low,180.0,198.0
 Pol,Midlands,Gravity Scan,8,In Space High,160.0,176.0
 Pol,Midlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Pol,Midlands,Crew Report,1,Surface: Landed,60.0,60.0
 Pol,Midlands,EVA Report,1,Surface: Landed,96.0,96.0
-Pol,Midlands,EVA Report,1,In Space Low,64.0,64.0
+Pol,Midlands,EVA Report,1,In Space Low,72.0,72.0
 Pol,Midlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Pol,Highlands,Mystery Goo Observation,1,Surface: Landed,120.0,156.0
 Pol,Highlands,Materials Study,2,Surface: Landed,300.0,384.0
@@ -2365,12 +2684,12 @@ Pol,Highlands,Temperature Scan,4,Surface: Landed,96.0,96.0
 Pol,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,144.0,144.0
 Pol,Highlands,Seismic Scan,7,Surface: Landed,240.0,264.0
 Pol,Highlands,Gravity Scan,8,Surface: Landed,240.0,264.0
-Pol,Highlands,Gravity Scan,8,In Space Low,160.0,176.0
+Pol,Highlands,Gravity Scan,8,In Space Low,180.0,198.0
 Pol,Highlands,Gravity Scan,8,In Space High,160.0,176.0
 Pol,Highlands,Atmosphere Analysis,7,Surface: Landed,240.0,288.0
 Pol,Highlands,Crew Report,1,Surface: Landed,60.0,60.0
 Pol,Highlands,EVA Report,1,Surface: Landed,96.0,96.0
-Pol,Highlands,EVA Report,1,In Space Low,64.0,64.0
+Pol,Highlands,EVA Report,1,In Space Low,72.0,72.0
 Pol,Highlands,Surface Sample,1,Surface: Landed,360.0,480.0
 Eeloo,Poles,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Poles,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2378,12 +2697,12 @@ Eeloo,Poles,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Poles,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Poles,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Poles,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Poles,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Poles,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Poles,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Poles,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Poles,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Poles,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Poles,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Poles,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Poles,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Northern Glaciers,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Northern Glaciers,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2391,12 +2710,12 @@ Eeloo,Northern Glaciers,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Northern Glaciers,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Northern Glaciers,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Northern Glaciers,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Northern Glaciers,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Northern Glaciers,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Northern Glaciers,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Northern Glaciers,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Northern Glaciers,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Northern Glaciers,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Northern Glaciers,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Northern Glaciers,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Northern Glaciers,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Midlands,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Midlands,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2404,12 +2723,12 @@ Eeloo,Midlands,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Midlands,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Midlands,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Midlands,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Midlands,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Midlands,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Midlands,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Midlands,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Midlands,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Midlands,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Midlands,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Midlands,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Midlands,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Lowlands,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Lowlands,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2417,12 +2736,12 @@ Eeloo,Lowlands,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Lowlands,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Lowlands,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Lowlands,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Lowlands,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Lowlands,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Lowlands,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Lowlands,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Lowlands,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Lowlands,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Lowlands,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Lowlands,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Lowlands,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Ice Canyons,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Ice Canyons,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2430,12 +2749,12 @@ Eeloo,Ice Canyons,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Ice Canyons,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Ice Canyons,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Ice Canyons,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Ice Canyons,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Ice Canyons,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Ice Canyons,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Ice Canyons,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Ice Canyons,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Ice Canyons,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Ice Canyons,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Ice Canyons,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Ice Canyons,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Highlands,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Highlands,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2443,12 +2762,12 @@ Eeloo,Highlands,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Highlands,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Highlands,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Highlands,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Highlands,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Highlands,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Highlands,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Highlands,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Highlands,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Highlands,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Highlands,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Highlands,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Highlands,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Craters,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Craters,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2456,12 +2775,12 @@ Eeloo,Craters,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Craters,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Craters,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Craters,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Craters,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Craters,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Craters,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Craters,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Craters,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Craters,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Craters,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Craters,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Craters,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Fragipan,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Fragipan,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2469,12 +2788,12 @@ Eeloo,Fragipan,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Fragipan,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Fragipan,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Fragipan,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Fragipan,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Fragipan,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Fragipan,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Fragipan,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Fragipan,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Fragipan,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Fragipan,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Fragipan,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Fragipan,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Babbage Patch,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Babbage Patch,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2482,12 +2801,12 @@ Eeloo,Babbage Patch,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Babbage Patch,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Babbage Patch,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Babbage Patch,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Babbage Patch,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Babbage Patch,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Babbage Patch,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Babbage Patch,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Babbage Patch,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Babbage Patch,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Babbage Patch,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Babbage Patch,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Babbage Patch,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Southern Glaciers,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Southern Glaciers,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2495,12 +2814,12 @@ Eeloo,Southern Glaciers,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Southern Glaciers,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Southern Glaciers,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Southern Glaciers,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Southern Glaciers,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Southern Glaciers,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Southern Glaciers,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Southern Glaciers,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Southern Glaciers,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Southern Glaciers,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Southern Glaciers,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Southern Glaciers,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Southern Glaciers,Surface Sample,1,Surface: Landed,450.0,600.0
 Eeloo,Mu Glacier,Mystery Goo Observation,1,Surface: Landed,150.0,195.0
 Eeloo,Mu Glacier,Materials Study,2,Surface: Landed,375.0,480.0
@@ -2508,10 +2827,10 @@ Eeloo,Mu Glacier,Temperature Scan,4,Surface: Landed,120.0,120.0
 Eeloo,Mu Glacier,Atmospheric Pressure Scan,5,Surface: Landed,180.0,180.0
 Eeloo,Mu Glacier,Seismic Scan,7,Surface: Landed,300.0,330.0
 Eeloo,Mu Glacier,Gravity Scan,8,Surface: Landed,300.0,330.0
-Eeloo,Mu Glacier,Gravity Scan,8,In Space Low,200.0,220.0
+Eeloo,Mu Glacier,Gravity Scan,8,In Space Low,240.0,264.0
 Eeloo,Mu Glacier,Gravity Scan,8,In Space High,200.0,220.0
 Eeloo,Mu Glacier,Atmosphere Analysis,7,Surface: Landed,300.0,360.0
 Eeloo,Mu Glacier,Crew Report,1,Surface: Landed,75.0,75.0
 Eeloo,Mu Glacier,EVA Report,1,Surface: Landed,120.0,120.0
-Eeloo,Mu Glacier,EVA Report,1,In Space Low,80.0,80.0
+Eeloo,Mu Glacier,EVA Report,1,In Space Low,96.0,96.0
 Eeloo,Mu Glacier,Surface Sample,1,Surface: Landed,450.0,600.0
