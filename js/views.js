@@ -19,13 +19,18 @@ var ScienceBox = React.createClass({displayName: 'ScienceBox',
         }
         var progress = sciences_by_id[this.props.science.id]
         var scimax = this.props.science.max;
+        scimax = Math.round(scimax*100)/100;
         var sciprog = 0;
         var remaining = scimax;
         if(progress!=undefined){
             sciprog = progress.sci;
+            if(Math.round(progress.cap*100)/100 != scimax)
+            {
+                console.log(this.props.science.id + ": " + this.props.science.instrument + "  " + this.props.science.location + ": real " + progress.cap + "!= calc " + scimax)
+            }
         }
         remaining -= sciprog;
-        //remaining = Math.max(remaining, 0) // Make sure it doesn't go negative in case of then having more science then max (from old saves or mods).
+        remaining = Math.max(remaining, 0) // Make sure it doesn't go negative in case of then having more science then max (from old saves or mods).
         var factor = remaining / scimax;
         var status="normal"
         if(factor < 0.1){
@@ -35,8 +40,7 @@ var ScienceBox = React.createClass({displayName: 'ScienceBox',
         }
 
         var remainingDsp = Math.ceil(remaining)
-        sciprog = Math.round(sciprog*10)/10;
-        var alt = this.props.science.instrument + "  " + this.props.science.location + ": " + Math.round(sciprog*100)/100 + "/" + Math.round(scimax*100)/100;
+        var alt = this.props.science.instrument + "  " + this.props.science.location + ": " + Math.round(sciprog*100)/100 + "/" + scimax;
         var className = "science "+status
         return (
             React.DOM.a( {className:className, title:alt}, 
