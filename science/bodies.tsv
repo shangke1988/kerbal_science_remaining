@@ -1,4 +1,4 @@
-Celestial body	Landed multiplier	Biomes	Splashed multiplier	Low Flying multiplier	High Flying multiplier	Atmosphere Border	Atmosphere Limit	Low space multiplier	Low space multiplier	space Border	Recovery
+Celestial body	Landed multiplier	Biomes	Splashed multiplier	Low Flying multiplier	High Flying multiplier	Atmosphere Border	Atmosphere Limit	Low space multiplier	High space multiplier	space Border	Recovery multiplier
 Kerbol	N/A	N/A	N/A	1	1	18 km	600 km	11	2	1000 Mm	4
 Moho	10	12	N/A	N/A	N/A	N/A	N/A	8	7	80 km	7
 Eve	8	15	8	6	6	22 km	90 km	7	5	400 km	5
